@@ -1,38 +1,14 @@
 [
   {
-    "name": "Al Jazeera English",
-    "url": "https://www.aljazeera.com/xml/rss/all.xml",
-    "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-06-25T22:29:03.669010+00:00"
-  },
-  {
-    "name": "AllAfrica (continent-wide)",
-    "url": "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf",
-    "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-06-25T22:29:05.849648+00:00"
-  },
-  {
     "name": "Kyodo News English",
     "url": "https://english.kyodonews.net/rss/all.xml",
     "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-06-25T22:29:07.831099+00:00"
+    "timestamp": "2026-06-25T23:01:03.030846+00:00"
   },
   {
     "name": "The Hindu",
     "url": "https://www.thehindu.com/feeder/default.rss",
-    "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-06-25T22:29:09.777686+00:00"
-  },
-  {
-    "name": "Antara News English",
-    "url": "https://en.antaranews.com/rss/news.xml",
-    "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-06-25T22:29:11.916958+00:00"
-  },
-  {
-    "name": "MercoPress",
-    "url": "https://en.mercopress.com/rss",
-    "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-06-25T22:29:13.879987+00:00"
+    "error": "prefix 'content' not found in prefix map",
+    "timestamp": "2026-06-25T23:01:03.267532+00:00"
   }
 ]
