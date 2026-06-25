@@ -1,0 +1,48 @@
+---
+layout: layout.njk
+title: "World News - Latest Headlines"
+---
+
+{% if news.article_count == 0 %}
+<div class="empty">
+  <p>No articles available yet.</p>
+  <p>Run <code>python scripts/fetch_news.py</code> to populate the feed.</p>
+</div>
+{% else %}
+
+<h1 class="page-heading">Latest Headlines</h1>
+<p class="page-meta">
+  {{ news.article_count }} articles across {{ news.categories | length }} regions
+  {% if news.generated_at %}&middot; Updated {{ news.generated_at | readableDate }}{% endif %}
+</p>
+
+{% for cat, articles in news.categories %}
+<section class="category-section" aria-labelledby="cat-{{ cat | categorySlug }}">
+  <h2 class="category-heading" id="cat-{{ cat | categorySlug }}">
+    {{ cat }}
+    <a href="/category/{{ cat | categorySlug }}/">View all &rarr;</a>
+  </h2>
+  <div class="article-grid">
+    {% for article in articles | limit(6) %}
+    <article class="article-card">
+      <div class="article-source">{{ article.source }}</div>
+      <h3 class="article-title">
+        <a href="{{ article.link }}" rel="noopener" target="_blank">{{ article.title }}</a>
+      </h3>
+      {% if article.summary %}
+      <p class="article-summary">{{ article.summary }}</p>
+      {% endif %}
+      <div class="article-footer">
+        {% if article.published %}
+        <time class="article-date" datetime="{{ article.published | isoDate }}">
+          {{ article.published | readableDate }}
+        </time>
+        {% endif %}
+      </div>
+    </article>
+    {% endfor %}
+  </div>
+</section>
+{% endfor %}
+
+{% endif %}

@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ (categoryName + " - World News") if categoryName else (title or "World News") }}</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #0f1117;
+      --surface: #1a1d27;
+      --border: #2a2d3a;
+      --text: #e1e4ed;
+      --muted: #8b8fa8;
+      --accent: #4f8ef7;
+      --accent-dim: #2a4a8a;
+      --tag-bg: #1e2a1e;
+      --tag-text: #6dba6d;
+      --gap: 1.5rem;
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+      font-size: 15px;
+      line-height: 1.6;
+      min-height: 100vh;
+    }
+
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    /* ---- Header ---- */
+    .site-header {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 0.75rem var(--gap);
+    }
+    .site-header-inner {
+      max-width: 1100px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+    .site-title {
+      font-size: 1.2rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      color: var(--text);
+    }
+    .site-title a { color: inherit; }
+    .site-title a:hover { text-decoration: none; opacity: 0.85; }
+
+    .site-nav {
+      display: flex;
+      gap: 0.25rem;
+      flex-wrap: wrap;
+    }
+    .site-nav a {
+      font-size: 0.8rem;
+      padding: 0.25rem 0.6rem;
+      border-radius: 4px;
+      color: var(--muted);
+      border: 1px solid transparent;
+      white-space: nowrap;
+    }
+    .site-nav a:hover,
+    .site-nav a.active {
+      color: var(--text);
+      border-color: var(--border);
+      background: var(--bg);
+      text-decoration: none;
+    }
+
+    /* ---- Main layout ---- */
+    .page {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: var(--gap);
+    }
+
+    .page-heading {
+      font-size: 1.5rem;
+      font-weight: 700;
+      margin-bottom: 0.25rem;
+    }
+
+    .page-meta {
+      font-size: 0.8rem;
+      color: var(--muted);
+      margin-bottom: var(--gap);
+    }
+
+    /* ---- Category sections (homepage) ---- */
+    .category-section { margin-bottom: 2.5rem; }
+
+    .category-heading {
+      font-size: 1rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: var(--muted);
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 0.4rem;
+      margin-bottom: 1rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .category-heading a { font-size: 0.75rem; text-transform: none; letter-spacing: 0; }
+
+    /* ---- Article card grid ---- */
+    .article-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 0.75rem;
+    }
+
+    .article-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 0.85rem 1rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.4rem;
+    }
+
+    .article-card:hover { border-color: var(--accent-dim); }
+
+    .article-source {
+      font-size: 0.72rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--muted);
+    }
+
+    .article-title {
+      font-size: 0.92rem;
+      font-weight: 600;
+      line-height: 1.35;
+      color: var(--text);
+    }
+    .article-title a { color: inherit; }
+    .article-title a:hover { color: var(--accent); text-decoration: none; }
+
+    .article-summary {
+      font-size: 0.8rem;
+      color: var(--muted);
+      line-height: 1.45;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .article-footer {
+      margin-top: auto;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+    }
+
+    .article-date {
+      font-size: 0.72rem;
+      color: var(--muted);
+    }
+
+    .tag {
+      font-size: 0.68rem;
+      font-weight: 600;
+      padding: 0.15rem 0.45rem;
+      border-radius: 4px;
+      background: var(--tag-bg);
+      color: var(--tag-text);
+      white-space: nowrap;
+    }
+
+    /* ---- Empty state ---- */
+    .empty {
+      text-align: center;
+      padding: 3rem 1rem;
+      color: var(--muted);
+    }
+    .empty p { margin-bottom: 0.5rem; }
+
+    /* ---- Footer ---- */
+    .site-footer {
+      background: var(--surface);
+      border-top: 1px solid var(--border);
+      padding: 1.5rem var(--gap);
+      margin-top: 3rem;
+      font-size: 0.78rem;
+      color: var(--muted);
+    }
+    .site-footer-inner {
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+    .site-footer p + p { margin-top: 0.5rem; }
+    .site-footer a { color: var(--muted); text-decoration: underline; }
+    .site-footer a:hover { color: var(--text); }
+
+    @media (max-width: 600px) {
+      .article-grid { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="site-header-inner">
+    <div class="site-title"><a href="/">World News</a></div>
+    <nav class="site-nav" aria-label="Categories">
+      <a href="/" {% if page.url == "/" %}class="active"{% endif %}>All</a>
+      {% for cat, articles in news.categories %}
+        <a href="/category/{{ cat | categorySlug }}/"
+           {% if page.url == "/category/" + (cat | categorySlug) + "/" %}class="active"{% endif %}>
+          {{ cat }}
+        </a>
+      {% endfor %}
+    </nav>
+  </div>
+</header>
+
+<main class="page">
+  {{ content | safe }}
+</main>
+
+<footer class="site-footer">
+  <div class="site-footer-inner">
+    <p>
+      Headlines aggregated from public RSS feeds. Articles link to their original
+      sources &mdash; only titles, dates, and short excerpts are stored here.
+    </p>
+    <p>
+      <strong>Attribution:</strong> Africa headlines courtesy of
+      <a href="https://allafrica.com" rel="noopener">allAfrica.com</a>.
+      All rights belong to their respective publishers.
+    </p>
+    {% if news.generated_at %}
+    <p>Last updated: {{ news.generated_at | readableDate }}</p>
+    {% endif %}
+  </div>
+</footer>
+
+</body>
+</html>
