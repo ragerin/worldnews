@@ -1,7 +1,1259 @@
 {
-  "generated_at": "2026-06-25T23:16:12.985687+00:00",
+  "generated_at": "2026-06-25T23:17:53.573514+00:00",
   "article_count": 494,
   "categories": {
+    "Technology": [
+      {
+        "title": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data",
+        "link": "https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-25T23:13:45+00:00",
+        "summary": "Amazon-owned MGM Studios’ decision to drop the OpenAI movie is just part of AI and film industries becoming increasingly intertwined. On Uncanny Valley, we take a look at where this is all headed."
+      },
+      {
+        "title": "99 Prime Day Deals That Aren’t For Suckers, Up to 50% Off (2026)",
+        "link": "https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-25-2026/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-25T22:32:07+00:00",
+        "summary": "We've gone from A to Z to find Amazon's best Prime Day deals on the gear worth owning."
+      },
+      {
+        "title": "Venezuela’s Powerful Earthquakes Were a Rare ‘Seismic Doublet’",
+        "link": "https://www.wired.com/story/venezuelas-powerful-earthquakes-rare-seismic-doublet/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-25T22:31:21+00:00",
+        "summary": "The country was hit hard by a pair of quakes that happened in quick succession and were likely driven by stress being transferred from one part of the fault that runs through the country to another."
+      },
+      {
+        "title": "YouTube Shorts are getting even shorter with an update that lets you double the playback speed",
+        "link": "https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/",
+        "source": "TechCrunch",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "business"
+        ],
+        "published": "2026-06-25T22:02:12+00:00",
+        "summary": "YouTube Shorts is getting a makeover."
+      },
+      {
+        "title": "Microsoft adds another year to Windows 10 extended update program",
+        "link": "https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/",
+        "source": "Ars Technica",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science"
+        ],
+        "published": "2026-06-25T20:24:09+00:00",
+        "summary": "About a quarter of PCs are still running Microsoft's previous operating system."
+      },
+      {
+        "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+        "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+        "source": "TechCrunch",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "business"
+        ],
+        "published": "2026-06-25T20:19:25+00:00",
+        "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says."
+      },
+      {
+        "title": "FCC may kill $2B program that connects schools and libraries to Internet",
+        "link": "https://arstechnica.com/tech-policy/2026/06/fcc-may-kill-2b-program-that-connects-schools-and-libraries-to-internet/",
+        "source": "Ars Technica",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science"
+        ],
+        "published": "2026-06-25T20:01:08+00:00",
+        "summary": "Carr cites screen time concerns, is accused of trying to be \"the nation’s parent.\""
+      },
+      {
+        "title": "Forget Peloton. Race to This 25% Off Deal on Hydrow’s Rowing Machine (2026)",
+        "link": "https://www.wired.com/story/hydrow-rowing-machine-deal-amazon-prime-day-2026/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-25T19:58:52+00:00",
+        "summary": "This Peloton-adjacent rowing machine gamifies your workout to a satisfying effect, and it’s up to 25 percent off right now for Prime Day."
+      },
+      {
+        "title": "Polymarket says hackers stole users’ funds",
+        "link": "https://techcrunch.com/2026/06/25/polymarket-says-hackers-stole-users-funds/",
+        "source": "TechCrunch",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "business"
+        ],
+        "published": "2026-06-25T19:58:46+00:00",
+        "summary": "The prediction market giant Polymarket said it's refunding users who had funds stolen due to a third-party breach."
+      },
+      {
+        "title": "Xbox follows Apple with price increases",
+        "link": "https://techcrunch.com/2026/06/25/xbox-follows-apple-with-price-increases/",
+        "source": "TechCrunch",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "business"
+        ],
+        "published": "2026-06-25T19:39:55+00:00",
+        "summary": "The company says the increases are being driven by rising memory and console storage prices, with costs more than 2.5x higher than previous levels."
+      },
+      {
+        "title": "Notion Mail shuts down amid agent takeover",
+        "link": "https://techcrunch.com/2026/06/25/notion-mail-shuts-down-amid-agent-takeover/",
+        "source": "TechCrunch",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "business"
+        ],
+        "published": "2026-06-25T19:14:46+00:00",
+        "summary": "The company said it is discontinuing its email inbox in favor of its AI agent offering as users are increasingly handing over the reins of their email to the agents."
+      },
+      {
+        "title": "We're Live-Blogging For The Real Heads Still Shopping Amazon Prime Day",
+        "link": "https://www.wired.com/live/amazon-prime-day-live-tracker-july-25-2026/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-25T19:13:33+00:00",
+        "summary": "The third day of Amazon Prime Day is for the real heads, and so is our live blog. We'll bring you deals, trends, and commentary until Amazon's annual summer sale finally hangs up its cleats."
+      },
+      {
+        "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
+        "link": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+        "source": "Ars Technica",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science"
+        ],
+        "published": "2026-06-25T19:04:57+00:00",
+        "summary": "Notion is \"going all in on using agents to run your inbox.\""
+      },
+      {
+        "title": "Google finally releases a Finance Android app, promises iOS version later in 2026",
+        "link": "https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/",
+        "source": "Ars Technica",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science"
+        ],
+        "published": "2026-06-25T18:38:51+00:00",
+        "summary": "It took 20 years, but the Finance app arrives just in time to be packed full of AI."
+      },
+      {
+        "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
+        "link": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
+        "source": "Ars Technica",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science"
+        ],
+        "published": "2026-06-25T18:01:48+00:00",
+        "summary": "Alibaba allegedly used 25,000 accounts to mine Claude over 28.8 million exchanges."
+      },
+      {
+        "title": "Planet orbits so close to its star that their magnetic fields connect",
+        "link": "https://arstechnica.com/science/2026/06/planet-orbits-so-close-to-its-star-that-their-magnetic-fields-connect/",
+        "source": "Ars Technica",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science"
+        ],
+        "published": "2026-06-25T18:00:39+00:00",
+        "summary": "At the right point of the orbit and stellar cycle, the star's chromosphere brightens."
+      },
+      {
+        "title": "A Fatal Tesla Crash in Texas Sets Up a Legal Showdown",
+        "link": "https://www.wired.com/story/a-fatal-tesla-crash-in-texas-sets-up-a-legal-showdown/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-25T17:52:51+00:00",
+        "summary": "Did Full Self-Driving (Supervised), Tesla’s driver assistance feature, play a role in a woman’s death?"
+      },
+      {
+        "title": "a16z-backed Base Power is offering cheaper electricity to the power grid that needs it most",
+        "link": "https://techcrunch.com/2026/06/25/a16z-backed-base-power-is-offering-cheaper-electricity-to-the-power-grid-that-needs-it-most/",
+        "source": "TechCrunch",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "business"
+        ],
+        "published": "2026-06-25T17:52:05+00:00",
+        "summary": "Base Power is skipping the PJM's troubled interconnection queue by placing its batteries at people's homes, offering backup services in exchange."
+      },
+      {
+        "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+        "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+        "source": "TechCrunch",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "business"
+        ],
+        "published": "2026-06-25T17:38:27+00:00",
+        "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows."
+      },
+      {
+        "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
+        "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+        "source": "TechCrunch",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "business"
+        ],
+        "published": "2026-06-25T16:55:00+00:00",
+        "summary": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition."
+      },
+      {
+        "title": "The Aerogarden I Recommend to Everyone Is Just $83 Right Now, a 63 Percent Discount",
+        "link": "https://www.wired.com/story/amazon-prime-day-aerogarden-deal-2026/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-25T16:54:55+00:00",
+        "summary": "This flash deal is a rare chance to buy one of our favorite hydroponic gardens for less than $100."
+      },
+      {
+        "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
+        "link": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+        "source": "TechCrunch",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "business"
+        ],
+        "published": "2026-06-25T16:48:11+00:00",
+        "summary": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems."
+      },
+      {
+        "title": "Hacked Klue says criminals are deleting stolen customer data, but now other hackers are making threats",
+        "link": "https://techcrunch.com/2026/06/25/hacked-klue-says-criminals-are-deleting-stolen-customer-data-but-now-other-hackers-are-making-threats/",
+        "source": "TechCrunch",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "business"
+        ],
+        "published": "2026-06-25T16:40:15+00:00",
+        "summary": "Market research company Klue told customers that it believes the hacking group that stole their data is now deleting it. The company, however, warned about a second group of hackers wanting ransom."
+      },
+      {
+        "title": "17 Best Prime Day Fitness Tech Deals (2026) Up to $250 Off",
+        "link": "https://www.wired.com/story/amazon-prime-day-fitness-deals-06-25-2026/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-25T16:05:30+00:00",
+        "summary": "I've compiled a list of the best fitness tech deals this Amazon Prime Day, including smartwatches, walking pads, and recovery gear. You can thank me later."
+      },
+      {
+        "title": "Rippling now wants to be your entire data stack",
+        "link": "https://techcrunch.com/2026/06/25/parker-conrad-knows-which-employees-are-worth-their-ai-spend-and-says-rippling-can-help-you-too/",
+        "source": "TechCrunch",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "business"
+        ],
+        "published": "2026-06-25T16:00:00+00:00",
+        "summary": "\"There were employees doing things like, 'Claude is so helpful for me — it analyzes my calendar and my email and puts together a plan for me,'\" he says. \"That person was spending at a run rate of $30,000 a year for this.\""
+      },
+      {
+        "title": "Google Finance gets a dedicated app for Android",
+        "link": "https://techcrunch.com/2026/06/25/google-finance-gets-a-dedicated-app-for-android/",
+        "source": "TechCrunch",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "business"
+        ],
+        "published": "2026-06-25T16:00:00+00:00",
+        "summary": "Users will be able to access their watchlists, real-time market data, live financial news, and Google's AI-powered \"Key Moments\" feature, which explains why stocks moved."
+      },
+      {
+        "title": "Stop Mowing Your Grass Forever With One of These Highly Rated Robot Mowers On Sale",
+        "link": "https://www.wired.com/story/amazon-prime-day-robot-mower-deals-june-2026/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-25T15:22:36+00:00",
+        "summary": "You don’t need to cut your own grass anymore. Most of the best robot mowers I’ve tested are on sale for Prime Day."
+      },
+      {
+        "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
+        "link": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+        "source": "TechCrunch",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "business"
+        ],
+        "published": "2026-06-25T14:55:38+00:00",
+        "summary": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live."
+      },
+      {
+        "title": "Trump administration bars Polestar from selling its new EVs in the US",
+        "link": "https://techcrunch.com/2026/06/25/trump-admin-bars-polestar-from-selling-its-new-evs-in-the-us/",
+        "source": "TechCrunch",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "business"
+        ],
+        "published": "2026-06-25T14:55:25+00:00",
+        "summary": "The Department of Commerce declined to give the Chinese-owned automaker a special authorization to keep selling EVs in the U.S."
+      },
+      {
+        "title": "Apple raises Mac and iPad prices, spares iPhone for now",
+        "link": "https://techcrunch.com/2026/06/25/apple-raises-mac-and-ipad-prices-spares-iphone-for-now/",
+        "source": "TechCrunch",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "business"
+        ],
+        "published": "2026-06-25T14:52:35+00:00",
+        "summary": "Apple raises prices of MacBook Air and Pro along with iPad Air and Pro."
+      },
+      {
+        "title": "Feds deny Polestar authorization to sell cars in US from model year 2027",
+        "link": "https://arstechnica.com/cars/2026/06/feds-deny-polestar-authorization-to-sell-cars-in-us-from-model-year-2027/",
+        "source": "Ars Technica",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science"
+        ],
+        "published": "2026-06-25T14:40:23+00:00",
+        "summary": "Unlike with Volvo, there will be no authorization for Polestar to sell its cars here."
+      },
+      {
+        "title": "Kobo Libra Colour Sale (2026): The E-Reader Deal Worth Jumping on This Prime Day",
+        "link": "https://www.wired.com/story/amazon-prime-day-kobo-deal-2026/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-25T14:24:57+00:00",
+        "summary": "The color e-reader that’s most worth your money this Prime Day isn't from Amazon."
+      },
+      {
+        "title": "Repositioning retail for the AI era",
+        "link": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+        "source": "MIT Technology Review",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science"
+        ],
+        "published": "2026-06-25T14:22:59+00:00",
+        "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inventory moves through supply chains, how engineers ship code faster, and&#8230;"
+      },
+      {
+        "title": "Apple ratchets up prices, blames the cost of memory",
+        "link": "https://arstechnica.com/apple/2026/06/apple-ratchets-up-prices-blames-the-cost-of-memory/",
+        "source": "Ars Technica",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science"
+        ],
+        "published": "2026-06-25T14:14:37+00:00",
+        "summary": "Some Macs are hundreds of dollars more expensive today than yesterday."
+      },
+      {
+        "title": "21 Best Prime Day Beauty Deals of 2026 (We Sifted Through Hundreds to Pick Them)",
+        "link": "https://www.wired.com/story/best-prime-day-beauty-deals-06-25-2026/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-25T14:00:58+00:00",
+        "summary": "It wouldn't be Amazon Prime Day without some beauty deals. Here's a roundup of all our favorites."
+      },
+      {
+        "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
+        "link": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
+        "source": "TechCrunch",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "business"
+        ],
+        "published": "2026-06-25T14:00:00+00:00",
+        "summary": "Two days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register today."
+      },
+      {
+        "title": "Trump administration proposes axing brake-pedal requirement for AVs in a boost for Tesla",
+        "link": "https://techcrunch.com/2026/06/25/trump-admin-proposes-axing-brake-pedal-requirement-for-avs-in-a-boost-for-tesla/",
+        "source": "TechCrunch",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "business"
+        ],
+        "published": "2026-06-25T13:58:05+00:00",
+        "summary": "The Department of Transportation wants to remove the brake-pedal requirement for vehicles \"designed to be driven exclusively by automated driving systems.\""
+      },
+      {
+        "title": "The \"sad inevitability\" of Europe's heat wave",
+        "link": "https://arstechnica.com/science/2026/06/the-sad-inevitability-of-europes-heat-wave/",
+        "source": "Ars Technica",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science"
+        ],
+        "published": "2026-06-25T13:54:46+00:00",
+        "summary": "Europeans are baking under their second heat wave of the summer."
+      },
+      {
+        "title": "I Found the Best iPad Deal for Amazon Prime Day This Year (2026)",
+        "link": "https://www.wired.com/story/the-ipad-you-should-buy-on-amazon-prime-day-this-year-2026/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-25T13:52:46+00:00",
+        "summary": "With four iPads to choose from, there’s a clear winner in terms of discounts for Amazon Prime Day."
+      },
+      {
+        "title": "New effort will get genome sequences for entire Endangered Species list",
+        "link": "https://arstechnica.com/science/2026/06/new-effort-will-get-genome-sequences-for-entire-endangered-species-list/",
+        "source": "Ars Technica",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science"
+        ],
+        "published": "2026-06-25T13:40:34+00:00",
+        "summary": "Colossal Biosciences will be biobanking tissues from all of them as well."
+      },
+      {
+        "title": "Best Prime Day Action Cameras Deals I've Found (2026): GoPro, Insta360, DJI",
+        "link": "https://www.wired.com/story/prime-day-camera-deals-06-25-2026/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-25T13:30:43+00:00",
+        "summary": "Action cameras are perfect for capturing travel adventures, recording social media vlogs, and more. Make use of these great Prime Day deals."
+      },
+      {
+        "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
+        "link": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
+        "source": "TechCrunch",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "business"
+        ],
+        "published": "2026-06-25T13:30:00+00:00",
+        "summary": "Adobe said that it will integrate Topaz Labs' tools across its apps."
+      },
+      {
+        "title": "Every Homo naledi we know of is female, and the implications are fascinating",
+        "link": "https://arstechnica.com/science/2026/06/every-homo-naledi-we-know-of-is-female-and-the-implications-are-fascinating/",
+        "source": "Ars Technica",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science"
+        ],
+        "published": "2026-06-25T13:28:54+00:00",
+        "summary": "\"There is no natural explanation,\" says paleoanthropologist John Hawks."
+      },
+      {
+        "title": "Colossal and the US Government Are Creating an Endangered Species ‘BioVault’",
+        "link": "https://www.wired.com/story/colossal-interior-department-team-up-endangered-species-dna/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-25T13:00:00+00:00",
+        "summary": "The move comes as the Trump administration is trying to weaken the act that’s meant to protect endangered species from going extinct in the first place."
+      },
+      {
+        "title": "Apple and Audi Alumni Have Made a Luxe EV Based on the Moon Buggy",
+        "link": "https://www.wired.com/story/amble-one-luxe-ev-buggy/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-25T13:00:00+00:00",
+        "summary": "The Amble One is a street-legal $25,000 electric buggy designed for luxury resorts—but a car is also coming."
+      },
+      {
+        "title": "21 Walmart Deals We Like Better Than That Other Sale Happening Right Now",
+        "link": "https://www.wired.com/story/walmart-deals-apd-06-25-2026/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-25T12:58:04+00:00",
+        "summary": "Welcome to Walmart deals for folks who’d rather not shop at Amazon. These are the best gadget deals at Walmart this Prime Day."
+      },
+      {
+        "title": "The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law",
+        "link": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/",
+        "source": "MIT Technology Review",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science"
+        ],
+        "published": "2026-06-25T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Europe’s extreme heat is shutting down power plants Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to&#8230;"
+      },
+      {
+        "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
+        "link": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
+        "source": "TechCrunch",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "business"
+        ],
+        "published": "2026-06-25T12:00:38+00:00",
+        "summary": "Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country."
+      },
+      {
+        "title": "Two Massive Earthquakes Struck Venezuela. Thousands Are Feared Dead",
+        "link": "https://www.wired.com/story/thousands-feared-dead-after-venezuela-struck-by-strongest-earthquakes-in-over-125-years/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-25T11:56:58+00:00",
+        "summary": "The country’s interim leader declared a state of emergency on Wednesday following shocks measuring 7.5 magnitude after two quakes hit in less than a minute."
+      },
+      {
+        "title": "Get Up to 36% Off With the Best Prime Day Kindle Deals (2026): Paperwhite, Colorsoft, Kids",
+        "link": "https://www.wired.com/story/kindle-prime-day-deals-06-25-2026/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-25T11:42:12+00:00",
+        "summary": "There’s no better time to get a Kindle than during Amazon's own sale event."
+      },
+      {
+        "title": "Get Up to 43% Off With the Best Prime Day TV Deals Plus Streaming Devices (2026)",
+        "link": "https://www.wired.com/story/best-prime-day-tv-deals-06-25-2026/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-25T11:39:53+00:00",
+        "summary": "These are the hottest Prime Day deals on our favorite TVs and streaming devices."
+      },
+      {
+        "title": "Best Bluetooth Speakers (2026): JBL, Sonos, Bose, and More",
+        "link": "https://www.wired.com/gallery/best-bluetooth-speakers/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-25T11:32:00+00:00",
+        "summary": "Discover the best Bluetooth speakers of all shapes and sizes, from waterproof clip-ons to a massive boom box."
+      },
+      {
+        "title": "I Found The Best Amazon Prime Day Headphone Deals (2026)",
+        "link": "https://www.wired.com/story/best-prime-day-headphone-deals-06-25-2026/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-25T11:27:43+00:00",
+        "summary": "From AirPods to on-ears, we’ve tested hundreds of pairs of headphones. Here are the best deals from Amazon’s biggest sale event."
+      },
+      {
+        "title": "The 23 Best Amazon Prime Day Deals Under $30 We've Found (2026)",
+        "link": "https://www.wired.com/story/best-amazon-prime-day-deals-under-30-06-25-2026/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-25T11:11:34+00:00",
+        "summary": "Everything is expensive. Treat yourself to one of these WIRED-tested and -approved Prime Day picks under $30."
+      },
+      {
+        "title": "World Cup Teams Are in a Race for AI Dominance",
+        "link": "https://www.wired.com/story/fifa-world-cup-2026-artificial-intelligence-tools/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-25T11:00:00+00:00",
+        "summary": "This year, FIFA is providing an AI agent that any team can use. Is it enough to level the playing field or will future winners be determined by which team can afford the best tools?"
+      },
+      {
+        "title": "This Buy-It-For-Life Coffee Maker Just Won Prime Day",
+        "link": "https://www.wired.com/story/amazon-prime-day-deal-2026-moccamaster/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-25T10:47:03+00:00",
+        "summary": "The Moccamaster Prime Day deal is the best price I've seen this year, on a coffee maker that will probably outlive you."
+      },
+      {
+        "title": "The 23 Best Prime Day Deals Under $100 in 2026",
+        "link": "https://www.wired.com/story/best-prime-day-deals-under-100-06-25-2026/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-25T10:44:04+00:00",
+        "summary": "Times are hard in 2026. These Amazon Prime Day deals under $100 on earbuds, Kindles, and other tested products should help make life just a little bit easier."
+      },
+      {
+        "title": "After More Than a Decade of Waiting, ‘GTA VI’ Is Finally Around the Corner",
+        "link": "https://www.wired.com/story/after-more-than-a-decade-of-waiting-gta-vi-is-finally-around-the-corner/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-25T10:30:00+00:00",
+        "summary": "We’re finally getting Grand Theft Auto VI, poised to be one of the largest gaming releases in history."
+      },
+      {
+        "title": "Best Prime Day Tech Deals Offer Up to $280 Off (2026): Phones, Watches, and More",
+        "link": "https://www.wired.com/story/best-prime-day-tech-deals-06-25-2026/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-25T10:05:24+00:00",
+        "summary": "Don't pay full price—snag one of these tasty Prime Day tech deals on some of our favorite WIRED-tested gadgets."
+      },
+      {
+        "title": "IBM claims world’s first sub-1 nanometer chip technology",
+        "link": "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/",
+        "source": "Ars Technica",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science"
+        ],
+        "published": "2026-06-25T10:00:55+00:00",
+        "summary": "IBM’s nanostack transistors could boost chip performance or energy efficiency."
+      },
+      {
+        "title": "Cellebrite said it cut off Russia, but Russia used its tools anyway",
+        "link": "https://techcrunch.com/2026/06/25/cellebrite-said-it-cut-off-russia-but-russia-used-is-tools-anyway/",
+        "source": "TechCrunch",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "business"
+        ],
+        "published": "2026-06-25T10:00:00+00:00",
+        "summary": "Security researchers found evidence that Russian authorities hacked the iPhone of a political opponent using a phone-unlocking device made by Cellebrite, even after the company said it would stop selling to Putin’s government."
+      },
+      {
+        "title": "What Europe’s heat wave means for the power grid",
+        "link": "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/",
+        "source": "MIT Technology Review",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science"
+        ],
+        "published": "2026-06-25T10:00:00+00:00",
+        "summary": "It’s been hard to look away from headlines about the European heat wave this week. Temperatures are breaking records across the continent, and the weather is threatening lives, shutting down schools, and in one particularly ironic case, forcing the cancellation of a London Climate Action Week event about extreme heat.  As the summer ramps up&#8230;"
+      },
+      {
+        "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
+        "link": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
+        "source": "MIT Technology Review",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science"
+        ],
+        "published": "2026-06-25T10:00:00+00:00",
+        "summary": "IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company’s previous state-of-the-art technology announced in 2021. The design could pave the way for faster and more energy efficient computers for years to come. For more than half&#8230;"
+      },
+      {
+        "title": "British Police Built a Sprawling Crime-Prediction Machine. Some Results Couldn’t Be Trusted",
+        "link": "https://www.wired.com/story/british-police-built-a-sprawling-crime-prediction-machine-some-results-couldnt-be-trusted/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-25T10:00:00+00:00",
+        "summary": "As UK police embrace the AI revolution, a WIRED investigation reveals the messy inside story of one region’s experiment with predictive analytics."
+      },
+      {
+        "title": "17 Best Prime Day Apple Deals Offering Up to 30% Off: iPad, Apple Watch, MacBooks, and More (2026)",
+        "link": "https://www.wired.com/story/best-prime-day-apple-deals-06-25-2026/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-25T08:39:16+00:00",
+        "summary": "Apple deals abound for Amazon Prime Day. We've rounded up the best deals on Apple Watches, iPhones, MacBooks, iPads, and accessories."
+      },
+      {
+        "title": "Dell Coupon Codes: 20% Off for June 2026",
+        "link": "https://www.wired.com/story/dell-coupon-code/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-25T05:00:00+00:00",
+        "summary": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech."
+      },
+      {
+        "title": "50% Off DoorDash Promo Code | June 2026",
+        "link": "https://www.wired.com/story/doordash-promo-code/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-25T05:00:00+00:00",
+        "summary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users."
+      },
+      {
+        "title": "NordVPN Coupons: 75% Off, Plus 3 Months Free in June 2026",
+        "link": "https://www.wired.com/story/nordvpn-coupon/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-25T05:00:00+00:00",
+        "summary": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes."
+      },
+      {
+        "title": "Google Workspace Promo Codes: 14% Off for June",
+        "link": "https://www.wired.com/story/google-workspace-promo-code/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-25T05:00:00+00:00",
+        "summary": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers."
+      },
+      {
+        "title": "AT&T Promo Codes: $50 Off This June 2026",
+        "link": "https://www.wired.com/story/att-promo-code/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-25T05:00:00+00:00",
+        "summary": "Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&T coupons and deals."
+      },
+      {
+        "title": "30% Off Samsung Promo Code | June 2026",
+        "link": "https://www.wired.com/story/samsung-promo-codes/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-25T05:00:00+00:00",
+        "summary": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25."
+      },
+      {
+        "title": "10 Best Protein Powders, According to 3 Years of Testing (2026)",
+        "link": "https://www.wired.com/gallery/best-protein-powders/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-25T04:14:20+00:00",
+        "summary": "I found the best protein powders that won’t make your morning smoothie taste like drywall."
+      },
+      {
+        "title": "The Skylight Calendar Is One of My Favorite Products On Sale for Prime Day",
+        "link": "https://www.wired.com/story/skylight-calendar-prime-day-deal-2026/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-25T00:59:18+00:00",
+        "summary": "The Skylight Calendar 2 and Calendar Max are both on sale for Prime Day if you've been dreaming of a digital calendar to manage your household."
+      },
+      {
+        "title": "Hotly anticipated Grand Theft Auto VI will cost more than other AAA games",
+        "link": "https://arstechnica.com/gaming/2026/06/grand-theft-auto-vi-will-cost-80-without-a-physical-disc/",
+        "source": "Ars Technica",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science"
+        ],
+        "published": "2026-06-24T22:47:03+00:00",
+        "summary": "GTA6 might be an outlier, though—at least for now."
+      },
+      {
+        "title": "Best Prime Day Deals on LED Masks and Hair Growth Tools That Actually Work",
+        "link": "https://www.wired.com/story/best-led-devices-prime-day-deals-2026/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-24T22:38:22+00:00",
+        "summary": "Whether you're looking to upgrade your skin care routine or invest in hair restoration, these are the best Prime Day deals on some of our favorite red light therapy devices."
+      },
+      {
+        "title": "How to Opt Out of Google Search’s New AI Data Training Feature",
+        "link": "https://www.wired.com/story/how-to-opt-out-of-google-search-new-ai-data-training/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-24T22:36:16+00:00",
+        "summary": "Google’s Search history update stores media uploads from your interactions, like images used in reverse image searches, for training its AI models."
+      },
+      {
+        "title": "OpenAI and Broadcom announce chip designed for LLM inference at scale",
+        "link": "https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/",
+        "source": "Ars Technica",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science"
+        ],
+        "published": "2026-06-24T22:28:18+00:00",
+        "summary": "The silicon race is heating up amid the struggle to keep up with demand."
+      },
+      {
+        "title": "13 years and $500 million for a stage adapter? Report justifies NASA cancellations.",
+        "link": "https://arstechnica.com/space/2026/06/analysis-finds-the-exploration-programs-nasa-recently-canceled-were-running-way-late/",
+        "source": "Ars Technica",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science"
+        ],
+        "published": "2026-06-24T21:41:03+00:00",
+        "summary": "\"Contract values for these efforts ballooned from nearly $2.8 billion to $5.9 billion.\""
+      },
+      {
+        "title": "Up to $400 Off: The Smart Fridge That Haunts My Algorithm",
+        "link": "https://www.wired.com/story/rocco-sale-june-amazon-prime-day-2026/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-24T21:32:45+00:00",
+        "summary": "The Rocco isn’t on Amazon, but its rare sale knocks up to $400 off a fridge that can track your drinks and make any room look cooler. Save through July 5."
+      },
+      {
+        "title": "US ends hantavirus outbreak response with no answers on draconian quarantines",
+        "link": "https://arstechnica.com/health/2026/06/us-ends-hantavirus-outbreak-response-with-no-answers-on-draconian-quarantines/",
+        "source": "Ars Technica",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science"
+        ],
+        "published": "2026-06-24T21:28:39+00:00",
+        "summary": "We still don't know why RFK Jr. overruled CDC expert to order strict quarantines."
+      },
+      {
+        "title": "The Best Roborock Deal This Prime Day (2026)",
+        "link": "https://www.wired.com/story/amazon-prime-day-roborock-deals-2026/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-24T21:13:31+00:00",
+        "summary": "Shopping Roborock’s models can feel overwhelming. But there’s just one I recommend snagging during Prime Day."
+      },
+      {
+        "title": "A24 Knows You’re Mad About the Google AI Collab",
+        "link": "https://www.wired.com/story/a24-knows-youre-mad-about-the-google-ai-collab/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-24T21:05:51+00:00",
+        "summary": "Indie movie fans are upset about Google DeepMind’s $75 million investment in the studio, which comes as AI companies are deepening their influence in Hollywood."
+      },
+      {
+        "title": "One-two punch delivered in global operation disrupts cybercrime \"assembly line\"",
+        "link": "https://arstechnica.com/security/2026/06/one-two-punch-delivered-in-global-operation-disrupts-cybercrime-assembly-line/",
+        "source": "Ars Technica",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science"
+        ],
+        "published": "2026-06-24T21:03:34+00:00",
+        "summary": "\"Operation Endgame\" simultaneously disrupts two widely used crime tools."
+      },
+      {
+        "title": "Best Dyson Deals for Prime Day: Vacuums, Hair Tools, and More (2026)",
+        "link": "https://www.wired.com/story/prime-day-dyson-deals-2026/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-24T20:46:41+00:00",
+        "summary": "It's one of the best times to snag yourself a Dyson device, whether it's a vacuum or a beauty tool."
+      },
+      {
+        "title": "Best Red-Light Therapy Mask: WIRED's Top 5, Ranked (2026)",
+        "link": "https://www.wired.com/story/led-face-masks-and-red-light-therapy/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-24T20:31:13+00:00",
+        "summary": "Your face called, and it’s low-key offended you might trust TikTok more than WIRED."
+      },
+      {
+        "title": "Underpromise, overdeliver? Hands-on with the $24,950 Slate auto.",
+        "link": "https://arstechnica.com/features/2026/06/we-take-a-ride-in-slates-24950-electric-pickup/",
+        "source": "Ars Technica",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science"
+        ],
+        "published": "2026-06-24T20:28:07+00:00",
+        "summary": "It has 205 miles of bare-bones range."
+      },
+      {
+        "title": "Disney agreed to $50M settlement over claims it made live-TV streaming expensive",
+        "link": "https://arstechnica.com/tech-policy/2026/06/disney-agreed-to-50m-settlement-over-claims-it-made-live-tv-streaming-expensive/",
+        "source": "Ars Technica",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science"
+        ],
+        "published": "2026-06-24T20:22:58+00:00",
+        "summary": "Lawsuit alleged Disney inflated market prices by making carriers include ESPN."
+      },
+      {
+        "title": "The Best Fake Christmas Trees on the Market Are 50% Off for Prime Day (2026)",
+        "link": "https://www.wired.com/story/balsam-hill-apd-june-2026/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-24T20:19:51+00:00",
+        "summary": "Save big during Prime Day on the best fake Christmas trees you can buy if you’re willing to stash them for six months."
+      },
+      {
+        "title": "Best Prime Day Vacuum Deals Offer Up to 42% Off (2026): Shark, Dyson, Bissell",
+        "link": "https://www.wired.com/story/prime-day-vacuum-deals-06-24-2026/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-24T20:12:56+00:00",
+        "summary": "Move over, spring cleaning. These vacuum deals will give your home the cleanest summer yet thanks to Amazon Prime Day."
+      },
+      {
+        "title": "Experimental wine bottle tracks oxygen moving through the cork",
+        "link": "https://arstechnica.com/science/2026/06/experimental-wine-bottle-tracks-oxygen-moving-through-the-cork/",
+        "source": "Ars Technica",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science"
+        ],
+        "published": "2026-06-24T20:04:32+00:00",
+        "summary": "The small bit of air in the bottle sees oxygen and other chemicals move in and out."
+      },
+      {
+        "title": "Best Prime Day Deals I've Found on Window and Portable Air Conditioners (2026)",
+        "link": "https://www.wired.com/story/amazon-prime-day-2026-window-portable-air-conditioners/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-24T19:59:28+00:00",
+        "summary": "Window ACs and portable air conditioners are on great Prime Day deals. Get some, uh, cool prices."
+      },
+      {
+        "title": "Every Time Norway Scores at the World Cup the City of Bergen Trembles",
+        "link": "https://www.wired.com/story/world-cup-norway-scores-city-of-bergen-trembles/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-24T19:26:06+00:00",
+        "summary": "This curious phenomenon was documented by the seismometer at the University of Bergen, which recorded slight vibrations whenever the national team scored a goal."
+      },
+      {
+        "title": "I Met With China’s Top AI Experts. They’re Freaking Out, Too",
+        "link": "https://www.wired.com/story/ai-arms-race-china-us-cooperation/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-24T18:45:00+00:00",
+        "summary": "The AI arms race between China and the US has researchers on both sides worried about a “Chernobyl moment.”"
+      },
+      {
+        "title": "The Best Breville Espresso Machine Is 30 Percent Off Right Now (2026)",
+        "link": "https://www.wired.com/story/breville-deals-apd-6-24-2026/",
+        "source": "Wired",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science",
+          "culture"
+        ],
+        "published": "2026-06-24T17:31:32+00:00",
+        "summary": "You can save hundreds of dollars on Breville appliances during Amazon Prime Day."
+      },
+      {
+        "title": "Europe’s extreme heat is shutting down power plants",
+        "link": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
+        "source": "MIT Technology Review",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science"
+        ],
+        "published": "2026-06-24T15:25:28+00:00",
+        "summary": "Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to help handle the load. On June 23, France saw its hottest day since record-keeping began in 1947.&#8230;"
+      },
+      {
+        "title": "The Download: introducing the Engineering issue",
+        "link": "https://www.technologyreview.com/2026/06/24/1139658/the-download-introducing-engineering-issue/",
+        "source": "MIT Technology Review",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science"
+        ],
+        "published": "2026-06-24T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Engineering issue We can’t fix everything, but we can be ambitious. We can take on the challenge of making the world better through human ingenuity. That’s what the new&#8230;"
+      },
+      {
+        "title": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
+        "link": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
+        "source": "MIT Technology Review",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science"
+        ],
+        "published": "2026-06-24T12:00:00+00:00",
+        "summary": "The common cold comes for us all—often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles. Now the payment company Stripe, founded by brothers Patrick and John Collison, says it will fund a new&#8230;"
+      },
+      {
+        "title": "The emergence of the web data infrastructure layer for AI",
+        "link": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+        "source": "MIT Technology Review",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science"
+        ],
+        "published": "2026-06-24T11:59:54+00:00",
+        "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.&#160; To understand this challenge, consider the foundation of the web itself. The web was not designed&#8230;"
+      },
+      {
+        "title": "This flying solar-powered platform could deliver better internet from the air",
+        "link": "https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/",
+        "source": "MIT Technology Review",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science"
+        ],
+        "published": "2026-06-24T09:00:00+00:00",
+        "summary": "As soon as August, a giant silver bullet will cut its way through the dry air of the southwestern US and cross the Pacific to reach the coast of Japan.&#160; Once there, the roughly 200-foot-long craft, built by the New Mexico–based company Sceye, will park some 18 kilometers above the ocean’s surface, in a wispy-thin&#8230;"
+      },
+      {
+        "title": "All challenges big and small",
+        "link": "https://www.technologyreview.com/2026/06/24/1138853/editors-letter-july-2026/",
+        "source": "MIT Technology Review",
+        "category": "Technology",
+        "topics": [
+          "technology",
+          "science"
+        ],
+        "published": "2026-06-24T09:00:00+00:00",
+        "summary": "When I was 18, I skipped my high school graduation and headed to Kuwait. It was 1991, the first Gulf War had just ended, and the country was in complete chaos. There was little to no electricity, aside from generator power. Rubble and unexploded ordnance were everywhere. Massive oil fires lit up the desert and&#8230;"
+      }
+    ],
     "East Asia": [
       {
         "title": "【速報中】W杯 日本×スウェーデン 日本代表 先発3人入れ替え",
@@ -736,6 +1988,656 @@
         ],
         "published": "2026-06-25T08:30:04+00:00",
         "summary": "In July 2024, India’s weight in the MSCI Emerging Markets Index, a leading gauge of stocks in developing economies, hit a record high of 19.99 per cent. At the time, this was less than three percentage points below China’s weight, which at one point was as high as 43 per cent.\nBetween 2022 and 2024, India was the darling of emerging market equity investors. The combination of the country’s fast-growing economy, strong corporate earnings, the Covid-19 pandemic-induced boom in retail trading…"
+      }
+    ],
+    "Global Wire": [
+      {
+        "title": "Why the trail went cold in Nancy Guthrie case",
+        "link": "https://www.bbc.co.uk/news/articles/cy064kg3n0ko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World News",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-25T23:12:22+00:00",
+        "summary": "The lack of a breakthrough in the abduction of a famous TV anchor's mother is puzzling given the huge publicity."
+      },
+      {
+        "title": "India defeat Bangladesh to maintain Women’s T20 World Cup semifinal bid",
+        "link": "https://www.aljazeera.com/sports/2026/6/25/india-defeat-bangladesh-to-maintain-womens-t20-world-cup-semifinal-bid?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-25T22:45:47+00:00",
+        "summary": "Shafali Verma&#039;s half-century helps the 50-over world champions reach the target inside 17 overs at Old Trafford."
+      },
+      {
+        "title": "Pepe’s brace sends Ivory Coast to first knockouts as Curacao exit World Cup",
+        "link": "https://www.aljazeera.com/sports/2026/6/25/pepes-brace-sends-ivory-coast-to-first-knockouts-as-curacao-exit-world-cup?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-25T22:26:46+00:00",
+        "summary": "The West Africans will face the second-place finisher between France and Norway in Group I on Tuesday in Texas."
+      },
+      {
+        "title": "Ecuador edge Germany 2-1 to squeeze into World Cup last 32",
+        "link": "https://www.aljazeera.com/sports/2026/6/25/ecuador-edge-germany-2-1-to-squeeze-into-world-cup-last-32?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-25T22:21:22+00:00",
+        "summary": "Germany finish top of Group E, with Ivory Coast second and Ecuador will have a chance of qualifying on third place."
+      },
+      {
+        "title": "A Chinese box office hit sparks a debate about identity in Singapore",
+        "link": "https://www.bbc.co.uk/news/articles/c5yzv23g75eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World News",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-25T22:19:08+00:00",
+        "summary": "A nostalgic tale about family, hope and hardship has opened an unexpected conversation."
+      },
+      {
+        "title": "Venezuela earthquakes live: At least 188 dead as rescue efforts intensify",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/6/25/venezuela-earthquakes-live-at-least-188-dead-as-rescue-efforts-intensify?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-25T22:00:02+00:00",
+        "summary": "Venezuelans battle to rescue loved ones trapped alive beneath rubble of collapsed buildings after two major earthquakes."
+      },
+      {
+        "title": "WNBA: Alyssa Thomas suspended one game for fist into Cailtin Clark’s throat",
+        "link": "https://www.aljazeera.com/sports/2026/6/25/wnba-alyssa-thomas-suspended-one-game-for-fist-into-cailtin-clarks-throat?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-25T21:48:05+00:00",
+        "summary": "Both players were on the floor when Thomas pushed her fist into Clark&#039;s throat before getting up and stepping over her."
+      },
+      {
+        "title": "Venezuela rescue teams race to find earthquake survivors",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/venezuela-rescue-teams-race-to-find-earthquake-survivors?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-25T21:42:33+00:00",
+        "summary": "Rescue teams raced to find survivors and recover bodies after twin earthquakes rocked Venezuela on Wednesday."
+      },
+      {
+        "title": "France warns even young people's health at risk as Europe's heatwave shifts east",
+        "link": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World News",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-25T21:27:06+00:00",
+        "summary": "Temperatures in Germany could hit 40C in some areas while French officials say deaths linked to the heat are being seen among young people."
+      },
+      {
+        "title": "Economic losses mount as Venezuela earthquake death toll grows",
+        "link": "https://www.aljazeera.com/news/2026/6/25/economic-losses-mount-as-venezuela-earthquake-death-toll-grows?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-25T21:12:00+00:00",
+        "summary": "Initial forecasts suggest damage could cost as much as 7 percent of the South American nation&#039;s GDP."
+      },
+      {
+        "title": "UN agency pauses Hormuz ship evacuation initiative after vessel attacked",
+        "link": "https://www.aljazeera.com/news/2026/6/25/un-agency-pauses-hormuz-ship-evacuation-initiative-after-vessel-attacked?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-25T20:55:46+00:00",
+        "summary": "Iran warns vessels to use only Tehran-approved routes as IMO halts Hormuz evacuation after ship struck."
+      },
+      {
+        "title": "Venezuela quake leaves La Guaira in almost total devastation",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/venezuela-quake-leaves-la-guaira-in-almost-total-devastation?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-25T20:50:40+00:00",
+        "summary": "La Guaira, the region hardest hit by two earthquakes in Venezuela, has been left devastated."
+      },
+      {
+        "title": "Dutch fans party in Kansas City ahead of World Cup clash with Tunisia",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/aje-onl-nf_dutch-fans-party-in-kansas-ahead-of-tunisia-match-250626?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-25T20:45:54+00:00",
+        "summary": "Netherlands supporters got the party going in Kansas City, US ahead of their final group stage game against Tunisia."
+      },
+      {
+        "title": "Netanyahu: ‘We will remain in Lebanon, Syria, and Gaza as long as required’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/netanyahu-we-will-remain-in-lebanon-syria-and-gaza-as-long-as?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-25T20:34:02+00:00",
+        "summary": "Israeli PM Benjamin Netanyahu stated that Israeli forces will maintain a presence in southern Lebanon, Syria and Gaza."
+      },
+      {
+        "title": "Ashura ceremonies intertwine faith and support for state in Iran",
+        "link": "https://www.aljazeera.com/news/2026/6/25/ashura-ceremonies-intertwine-faith-and-support-for-state-in-iran?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-25T20:12:33+00:00",
+        "summary": "State-backed Ashura events showcase leaders killed by US, Israel, seen as martyrs in the mould of Imam Hussein."
+      },
+      {
+        "title": "Kenya’s Kandie gets seven-year ban for doping violations",
+        "link": "https://www.aljazeera.com/sports/2026/6/25/kenyas-kandie-gets-seven-year-ban-for-doping-violations?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-25T20:11:39+00:00",
+        "summary": "Kibiwott Kandie initially faced an eight-year ban split evenly across two violations, but received a one-year reduction."
+      },
+      {
+        "title": "Has Marco Rubio’s tour of the Gulf reassured US allies?",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/6/25/has-marco-rubios-tour-of-the-gulf-reassured-us-allies?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-25T20:00:22+00:00",
+        "summary": "The US secretary of state tells Gulf Cooperation Council (GCC) states that the Iran deal will ensure their security."
+      },
+      {
+        "title": "‘Truly terrifying’: Caracas confronts the aftermath of Venezuela earthquake",
+        "link": "https://www.aljazeera.com/news/2026/6/25/truly-terrifying-caracas-confronts-the-aftermath-of-venezuela-earthquake?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-25T19:44:43+00:00",
+        "summary": "Devastated residents recall the moment when they experienced the twin earthquakes that toppled buildings and killed 188."
+      },
+      {
+        "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
+        "link": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World News",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-25T19:19:12+00:00",
+        "summary": "The ship was reportedly struck by an \"unknown projectile\" near Oman but no casualties were reported."
+      },
+      {
+        "title": "Kenya arrests more than 350 as people mark anniversary of deadly protests",
+        "link": "https://www.aljazeera.com/news/2026/6/25/kenya-arrests-more-than-350-as-people-mark-anniversary-of-deadly-protests?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-25T18:55:10+00:00",
+        "summary": "Demonstrators mark the second anniversary of a 2024 protest where 60 people were killed by security forces."
+      },
+      {
+        "title": "Bedouins protest Israel’s home demolition policy in the Negev desert",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/bedouins-protest-israels-home-demolition-policy-in-the-negev-desert?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-25T18:50:23+00:00",
+        "summary": "Bedouins protest Israel’s home demolition policy in the Negev desert"
+      },
+      {
+        "title": "Women alleging rape and sexual assault in France call to abolish statute of limitations",
+        "link": "https://www.bbc.co.uk/news/articles/ckg7z5dvxnzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World News",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-25T18:50:12+00:00",
+        "summary": "More than 50 women are calling for the abolition of the statute of limitations which they say has prevented them seeking justice."
+      },
+      {
+        "title": "Supreme Court allows Trump to end protected status for Haitian and Syrian immigrants",
+        "link": "https://www.bbc.co.uk/news/articles/c4g8ym422lko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World News",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-25T18:43:14+00:00",
+        "summary": "The ruling opens the path for the Trump administration to deport hundreds of thousands of immigrants who have been living in the US for years."
+      },
+      {
+        "title": "Krieg: For Iran control of the Strait of Hormuz is about the spoils of war",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/aje-onl-nf_krieg_control-of-the-strait-of-hormuz-spoils-of-war-250626w?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-25T18:24:58+00:00",
+        "summary": "Andreas Krieg said Iran possesses sufficient geographic and military leverage in the Strait of Hormuz."
+      },
+      {
+        "title": "‘Concrete breaking off walls’: Survivors describe Venezuela’s earthquakes",
+        "link": "https://www.aljazeera.com/news/2026/6/25/concrete-breaking-off-walls-survivors-describe-venezuelas-earthquakes?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-25T18:20:45+00:00",
+        "summary": "The Venezuelan government has loosened restrictions on social media as residents search for missing loved ones."
+      },
+      {
+        "title": "Russia set to return to FIFA competition at inaugural U-15 World Cup",
+        "link": "https://www.aljazeera.com/sports/2026/6/25/russia-set-to-return-to-fifa-competition-as-inaugural-u-15-world-cup?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-25T18:09:15+00:00",
+        "summary": "FIFA&#039;s inaugural U-15 World Cup in October is opened to all of its member associates, paving way for Russia&#039;s return."
+      },
+      {
+        "title": "US Supreme Court scales back Roundup cancer lawsuits in victory for company",
+        "link": "https://www.aljazeera.com/economy/2026/6/25/us-supreme-court-scales-back-roundup-cancer-lawsuits-in-victory-for-company?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-25T17:15:33+00:00",
+        "summary": "More than 100,000 plaintiffs had filed cases in US state and federal courts alleging cancer link to weedkiller Roundup."
+      },
+      {
+        "title": "Ukrainian attack on Crimea kills five, Russian officials say",
+        "link": "https://www.aljazeera.com/news/2026/6/25/ukrainian-attack-on-crimea-kills-five-russian-officials-say?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-25T17:12:34+00:00",
+        "summary": "Attacks continue on the ground as Moscow expels Romania’s consul general in a tit-for-tat move."
+      },
+      {
+        "title": "Pragmatic choice: Israel’s war backfires as Gulf backs US-Iran deal",
+        "link": "https://www.aljazeera.com/features/2026/6/25/hard-headed-pragmatism-israels-war-backfires-as-gulf-backs-us-iran-mou?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-25T17:11:34+00:00",
+        "summary": "A war meant to isolate Iran instead deepened Gulf pragmatism and strengthened support for diplomacy."
+      },
+      {
+        "title": "How the HPV vaccine changes how we think about cancer",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/how-the-hpv-vaccine-changes-how-we-think-about-cancer?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-25T17:07:49+00:00",
+        "summary": "Al Jazeera’s Linh Nguyen explains how the HPV vaccine changes the way we think about cancer."
+      },
+      {
+        "title": "Could a Madison Square Garden wedding be the love story of Taylor Swift's wildest dreams?",
+        "link": "https://www.bbc.co.uk/news/articles/cy73e5xek8xo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World News",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-25T17:00:51+00:00",
+        "summary": "Officials confirmed someone applied for a permit to close the streets near Madison Square Garden on 4 July."
+      },
+      {
+        "title": "Families lay flowers on barbed wire barricade on anniversary of deadly Kenya protests",
+        "link": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World News",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-25T16:53:51+00:00",
+        "summary": "Protesters demand justice for the dozens killed during the 2024 demonstrations and last year's anniversary protests."
+      },
+      {
+        "title": "Venezuela struggles to respond to devastating twin earthquakes",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/venezuela-struggles-to-respond-to-devastating-twin-earthquakes?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-25T16:36:06+00:00",
+        "summary": "Noris Soto says authorities appear to lack a clear response plan in the aftermath of two powerful earthquakes."
+      },
+      {
+        "title": "Oil price falls back to pre-Iran war levels",
+        "link": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World News",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-25T15:32:04+00:00",
+        "summary": "Signs that traffic through the key Strait of Hormuz shipping route is gradually resuming has helped to push the oil price down."
+      },
+      {
+        "title": "Key figure in South Africa police corruption scandal pleads guilty",
+        "link": "https://www.bbc.co.uk/news/articles/cx2j4g5k52jo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World News",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-25T14:00:13+00:00",
+        "summary": "Prosecutors say Vusimusi \"Cat\" Matlala could provide evidence against \"high-ranking officials\"."
+      },
+      {
+        "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
+        "link": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World News",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-25T13:09:58+00:00",
+        "summary": "The twin quakes come less than six months after Venezuela's then-leader Nicolás Maduro was seized by US forces."
+      },
+      {
+        "title": "Ryanair says it will reluctantly not charge parents to sit next to children",
+        "link": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World News",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-25T12:08:33+00:00",
+        "summary": "The airline had typically charged adults a fee of £8 each way to sit with their young children."
+      },
+      {
+        "title": "People flee as building collapses on Caracas outskirts",
+        "link": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World News",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-25T12:08:30+00:00",
+        "summary": "The capital and its surrounding areas have seen some of the worst damage from the 7.2 and 7.5 quakes, which hit a minute apart."
+      },
+      {
+        "title": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
+        "link": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World News",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-25T10:04:43+00:00",
+        "summary": "IBM says it has created the world's first known chip tech below 1 nanometre - but it will be some time before it's ready for production."
+      },
+      {
+        "title": "Trump asks Congress for billions for Iran war, after tension with Republicans",
+        "link": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World News",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-25T09:06:59+00:00",
+        "summary": "But the budget faces an uphill battle as the president spars with some members of his own party over the issue."
+      },
+      {
+        "title": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities",
+        "link": "https://www.bbc.co.uk/news/articles/cwyklykn5dwo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World News",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-25T03:12:17+00:00",
+        "summary": "The firm alleged that Alibaba used fraudulent accounts to access data from its Claude AI model."
+      },
+      {
+        "title": "Independent MPs launch new Australian centrist party",
+        "link": "https://www.bbc.co.uk/news/articles/ckg76mgz0m1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World News",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-25T02:41:28+00:00",
+        "summary": "Zali Steggall and Allegra Spender say Community Strong Australia will offer citizens 'reason over rage'."
+      },
+      {
+        "title": "The ICE raids are over, but some Minnesotans say they still live in fear",
+        "link": "https://www.bbc.co.uk/news/articles/c0eyww7280xo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World News",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-25T02:40:13+00:00",
+        "summary": "Months after the Trump administration's immigration crackdown officially ended, Minneapolis is still feeling the impact."
+      },
+      {
+        "title": "This Indian state is trying to ensure no one grows old alone",
+        "link": "https://www.bbc.co.uk/news/articles/cg74dj4xev5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World News",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-25T02:38:03+00:00",
+        "summary": "Kerala is searching for new ways to care for its ageing population as migration leaves more elderly people living alone."
+      },
+      {
+        "title": "How to cope in a heatwave - according to you",
+        "link": "https://www.bbc.co.uk/news/articles/cze9w9xnprno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World News",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-25T00:18:35+00:00",
+        "summary": "From what to wear to getting a restful night's sleep, you share your tips for beating the heat."
+      },
+      {
+        "title": "Watch: Moment earthquakes hit airport and buildings in Caracas",
+        "link": "https://www.bbc.co.uk/news/videos/cvgl42lm8dwo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World News",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-24T23:40:47+00:00",
+        "summary": "Video filmed by BBC reporters, contributors and locals shows the aftermath, as frantic residents evacuate."
+      },
+      {
+        "title": "Philippines bans video game played by alleged high school shooter",
+        "link": "https://www.bbc.co.uk/news/articles/c14y7738nm8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World News",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-24T22:14:12+00:00",
+        "summary": "The rare school shooting that left three students killed and 20 others injured has shocked the country."
+      },
+      {
+        "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
+        "link": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World News",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-24T17:31:48+00:00",
+        "summary": "Rafael Grossi says the IAEA is \"working on modalities\" but an Iranian  minister says such access would only be part of a final deal with the US."
+      },
+      {
+        "title": "Air conditioning creates political divide after France records hottest day",
+        "link": "https://www.bbc.co.uk/news/articles/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World News",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-24T13:51:24+00:00",
+        "summary": "France is being forced to re-think its longstanding reservations about air-conditioning as temperatures soar."
+      },
+      {
+        "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
+        "link": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World News",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-24T13:03:35+00:00",
+        "summary": "Brad Lander unseats Dan Goldman in a race that laid bare the city's divisions over the Israel-Gaza war."
+      },
+      {
+        "title": "Biggest city in Crimea without power after Ukraine strikes",
+        "link": "https://www.bbc.co.uk/news/articles/c3ryv72pjqno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World News",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-24T09:48:24+00:00",
+        "summary": "Sevastopol's Moscow-installed governor warns there will be no electricity in some areas until the evening."
+      },
+      {
+        "title": "Temperatures hit record levels in western Europe",
+        "link": "https://www.bbc.co.uk/news/videos/c30y6qe2qqno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World News",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-23T21:46:34+00:00",
+        "summary": "France, Spain and Italy, have been hardest hit by the heatwave so far."
+      },
+      {
+        "title": "'We're begging' - Savannah Guthrie pleads for help as details of her mother’s case emerge",
+        "link": "https://www.bbc.co.uk/news/videos/cjdg1enzrk5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World News",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-23T16:41:44+00:00",
+        "summary": "Savannah Guthrie spoke on NBC's Today show about a note sent to the media in February regarding her missing mother, Nancy Guthrie, which claimed she had died."
+      },
+      {
+        "title": "Why was JD Vance in a luxury Swiss resort for talks with Iran?",
+        "link": "https://www.bbc.co.uk/news/videos/c4gyenl6nz0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World News",
+        "category": "Global Wire",
+        "topics": [
+          "world",
+          "politics"
+        ],
+        "published": "2026-06-23T05:38:36+00:00",
+        "summary": "BBC correspondent Jessica Parker explains some key points of the direct talks between the US vice-president and Iran."
       }
     ],
     "Business & Finance": [
@@ -2144,656 +4046,6 @@
         "summary": "Written in 1947, Kiyoshi Tanimoto’s account of the horrors of the atomic bomb attack will be published in August and is being made into a filmThe memoir of a man who survived the horrors of Hiroshima is to be published for the first time this summer after its discovery in a US archive.The 230-page memoir was written almost 80 years ago by Kiyoshi Tanimoto, who witnessed the city’s destruction after the atomic bomb was dropped in 1945. He will now be portrayed in a feature film by Takehiro Hira,…"
       }
     ],
-    "Global Wire": [
-      {
-        "title": "India defeat Bangladesh to maintain Women’s T20 World Cup semifinal bid",
-        "link": "https://www.aljazeera.com/sports/2026/6/25/india-defeat-bangladesh-to-maintain-womens-t20-world-cup-semifinal-bid?traffic_source=rss",
-        "source": "Al Jazeera English",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-25T22:45:47+00:00",
-        "summary": "Shafali Verma&#039;s half-century helps the 50-over world champions reach the target inside 17 overs at Old Trafford."
-      },
-      {
-        "title": "Pepe’s brace sends Ivory Coast to first knockouts as Curacao exit World Cup",
-        "link": "https://www.aljazeera.com/sports/2026/6/25/pepes-brace-sends-ivory-coast-to-first-knockouts-as-curacao-exit-world-cup?traffic_source=rss",
-        "source": "Al Jazeera English",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-25T22:26:46+00:00",
-        "summary": "The West Africans will face the second-place finisher between France and Norway in Group I on Tuesday in Texas."
-      },
-      {
-        "title": "Ecuador edge Germany 2-1 to squeeze into World Cup last 32",
-        "link": "https://www.aljazeera.com/sports/2026/6/25/ecuador-edge-germany-2-1-to-squeeze-into-world-cup-last-32?traffic_source=rss",
-        "source": "Al Jazeera English",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-25T22:21:22+00:00",
-        "summary": "Germany finish top of Group E, with Ivory Coast second and Ecuador will have a chance of qualifying on third place."
-      },
-      {
-        "title": "A Chinese box office hit sparks a debate about identity in Singapore",
-        "link": "https://www.bbc.co.uk/news/articles/c5yzv23g75eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World News",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-25T22:19:08+00:00",
-        "summary": "A nostalgic tale about family, hope and hardship has opened an unexpected conversation."
-      },
-      {
-        "title": "Venezuela earthquakes live: At least 188 dead as rescue efforts intensify",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/6/25/venezuela-earthquakes-live-at-least-188-dead-as-rescue-efforts-intensify?traffic_source=rss",
-        "source": "Al Jazeera English",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-25T22:00:02+00:00",
-        "summary": "Venezuelans battle to rescue loved ones trapped alive beneath rubble of collapsed buildings after two major earthquakes."
-      },
-      {
-        "title": "WNBA: Alyssa Thomas suspended one game for fist into Cailtin Clark’s throat",
-        "link": "https://www.aljazeera.com/sports/2026/6/25/wnba-alyssa-thomas-suspended-one-game-for-fist-into-cailtin-clarks-throat?traffic_source=rss",
-        "source": "Al Jazeera English",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-25T21:48:05+00:00",
-        "summary": "Both players were on the floor when Thomas pushed her fist into Clark&#039;s throat before getting up and stepping over her."
-      },
-      {
-        "title": "Venezuela rescue teams race to find earthquake survivors",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/venezuela-rescue-teams-race-to-find-earthquake-survivors?traffic_source=rss",
-        "source": "Al Jazeera English",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-25T21:42:33+00:00",
-        "summary": "Rescue teams raced to find survivors and recover bodies after twin earthquakes rocked Venezuela on Wednesday."
-      },
-      {
-        "title": "France warns even young people's health at risk as Europe's heatwave shifts east",
-        "link": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World News",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-25T21:27:06+00:00",
-        "summary": "Temperatures in Germany could hit 40C in some areas while French officials say deaths linked to the heat are being seen among young people."
-      },
-      {
-        "title": "Economic losses mount as Venezuela earthquake death toll grows",
-        "link": "https://www.aljazeera.com/news/2026/6/25/economic-losses-mount-as-venezuela-earthquake-death-toll-grows?traffic_source=rss",
-        "source": "Al Jazeera English",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-25T21:12:00+00:00",
-        "summary": "Initial forecasts suggest damage could cost as much as 7 percent of the South American nation&#039;s GDP."
-      },
-      {
-        "title": "UN agency pauses Hormuz ship evacuation initiative after vessel attacked",
-        "link": "https://www.aljazeera.com/news/2026/6/25/un-agency-pauses-hormuz-ship-evacuation-initiative-after-vessel-attacked?traffic_source=rss",
-        "source": "Al Jazeera English",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-25T20:55:46+00:00",
-        "summary": "Iran warns vessels to use only Tehran-approved routes as IMO halts Hormuz evacuation after ship struck."
-      },
-      {
-        "title": "Venezuela quake leaves La Guaira in almost total devastation",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/venezuela-quake-leaves-la-guaira-in-almost-total-devastation?traffic_source=rss",
-        "source": "Al Jazeera English",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-25T20:50:40+00:00",
-        "summary": "La Guaira, the region hardest hit by two earthquakes in Venezuela, has been left devastated."
-      },
-      {
-        "title": "Dutch fans party in Kansas City ahead of World Cup clash with Tunisia",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/aje-onl-nf_dutch-fans-party-in-kansas-ahead-of-tunisia-match-250626?traffic_source=rss",
-        "source": "Al Jazeera English",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-25T20:45:54+00:00",
-        "summary": "Netherlands supporters got the party going in Kansas City, US ahead of their final group stage game against Tunisia."
-      },
-      {
-        "title": "Netanyahu: ‘We will remain in Lebanon, Syria, and Gaza as long as required’",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/netanyahu-we-will-remain-in-lebanon-syria-and-gaza-as-long-as?traffic_source=rss",
-        "source": "Al Jazeera English",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-25T20:34:02+00:00",
-        "summary": "Israeli PM Benjamin Netanyahu stated that Israeli forces will maintain a presence in southern Lebanon, Syria and Gaza."
-      },
-      {
-        "title": "Ashura ceremonies intertwine faith and support for state in Iran",
-        "link": "https://www.aljazeera.com/news/2026/6/25/ashura-ceremonies-intertwine-faith-and-support-for-state-in-iran?traffic_source=rss",
-        "source": "Al Jazeera English",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-25T20:12:33+00:00",
-        "summary": "State-backed Ashura events showcase leaders killed by US, Israel, seen as martyrs in the mould of Imam Hussein."
-      },
-      {
-        "title": "Kenya’s Kandie gets seven-year ban for doping violations",
-        "link": "https://www.aljazeera.com/sports/2026/6/25/kenyas-kandie-gets-seven-year-ban-for-doping-violations?traffic_source=rss",
-        "source": "Al Jazeera English",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-25T20:11:39+00:00",
-        "summary": "Kibiwott Kandie initially faced an eight-year ban split evenly across two violations, but received a one-year reduction."
-      },
-      {
-        "title": "Has Marco Rubio’s tour of the Gulf reassured US allies?",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/6/25/has-marco-rubios-tour-of-the-gulf-reassured-us-allies?traffic_source=rss",
-        "source": "Al Jazeera English",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-25T20:00:22+00:00",
-        "summary": "The US secretary of state tells Gulf Cooperation Council (GCC) states that the Iran deal will ensure their security."
-      },
-      {
-        "title": "‘Truly terrifying’: Caracas confronts the aftermath of Venezuela earthquake",
-        "link": "https://www.aljazeera.com/news/2026/6/25/truly-terrifying-caracas-confronts-the-aftermath-of-venezuela-earthquake?traffic_source=rss",
-        "source": "Al Jazeera English",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-25T19:44:43+00:00",
-        "summary": "Devastated residents recall the moment when they experienced the twin earthquakes that toppled buildings and killed 188."
-      },
-      {
-        "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
-        "link": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World News",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-25T19:19:12+00:00",
-        "summary": "The ship was reportedly struck by an \"unknown projectile\" near Oman but no casualties were reported."
-      },
-      {
-        "title": "Kenya arrests more than 350 as people mark anniversary of deadly protests",
-        "link": "https://www.aljazeera.com/news/2026/6/25/kenya-arrests-more-than-350-as-people-mark-anniversary-of-deadly-protests?traffic_source=rss",
-        "source": "Al Jazeera English",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-25T18:55:10+00:00",
-        "summary": "Demonstrators mark the second anniversary of a 2024 protest where 60 people were killed by security forces."
-      },
-      {
-        "title": "Bedouins protest Israel’s home demolition policy in the Negev desert",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/bedouins-protest-israels-home-demolition-policy-in-the-negev-desert?traffic_source=rss",
-        "source": "Al Jazeera English",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-25T18:50:23+00:00",
-        "summary": "Bedouins protest Israel’s home demolition policy in the Negev desert"
-      },
-      {
-        "title": "Women alleging rape and sexual assault in France call to abolish statute of limitations",
-        "link": "https://www.bbc.co.uk/news/articles/ckg7z5dvxnzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World News",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-25T18:50:12+00:00",
-        "summary": "More than 50 women are calling for the abolition of the statute of limitations which they say has prevented them seeking justice."
-      },
-      {
-        "title": "Supreme Court allows Trump to end protected status for Haitian and Syrian immigrants",
-        "link": "https://www.bbc.co.uk/news/articles/c4g8ym422lko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World News",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-25T18:43:14+00:00",
-        "summary": "The ruling opens the path for the Trump administration to deport hundreds of thousands of immigrants who have been living in the US for years."
-      },
-      {
-        "title": "Krieg: For Iran control of the Strait of Hormuz is about the spoils of war",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/aje-onl-nf_krieg_control-of-the-strait-of-hormuz-spoils-of-war-250626w?traffic_source=rss",
-        "source": "Al Jazeera English",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-25T18:24:58+00:00",
-        "summary": "Andreas Krieg said Iran possesses sufficient geographic and military leverage in the Strait of Hormuz."
-      },
-      {
-        "title": "‘Concrete breaking off walls’: Survivors describe Venezuela’s earthquakes",
-        "link": "https://www.aljazeera.com/news/2026/6/25/concrete-breaking-off-walls-survivors-describe-venezuelas-earthquakes?traffic_source=rss",
-        "source": "Al Jazeera English",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-25T18:20:45+00:00",
-        "summary": "The Venezuelan government has loosened restrictions on social media as residents search for missing loved ones."
-      },
-      {
-        "title": "Russia set to return to FIFA competition at inaugural U-15 World Cup",
-        "link": "https://www.aljazeera.com/sports/2026/6/25/russia-set-to-return-to-fifa-competition-as-inaugural-u-15-world-cup?traffic_source=rss",
-        "source": "Al Jazeera English",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-25T18:09:15+00:00",
-        "summary": "FIFA&#039;s inaugural U-15 World Cup in October is opened to all of its member associates, paving way for Russia&#039;s return."
-      },
-      {
-        "title": "US Supreme Court scales back Roundup cancer lawsuits in victory for company",
-        "link": "https://www.aljazeera.com/economy/2026/6/25/us-supreme-court-scales-back-roundup-cancer-lawsuits-in-victory-for-company?traffic_source=rss",
-        "source": "Al Jazeera English",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-25T17:15:33+00:00",
-        "summary": "More than 100,000 plaintiffs had filed cases in US state and federal courts alleging cancer link to weedkiller Roundup."
-      },
-      {
-        "title": "Ukrainian attack on Crimea kills five, Russian officials say",
-        "link": "https://www.aljazeera.com/news/2026/6/25/ukrainian-attack-on-crimea-kills-five-russian-officials-say?traffic_source=rss",
-        "source": "Al Jazeera English",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-25T17:12:34+00:00",
-        "summary": "Attacks continue on the ground as Moscow expels Romania’s consul general in a tit-for-tat move."
-      },
-      {
-        "title": "Pragmatic choice: Israel’s war backfires as Gulf backs US-Iran deal",
-        "link": "https://www.aljazeera.com/features/2026/6/25/hard-headed-pragmatism-israels-war-backfires-as-gulf-backs-us-iran-mou?traffic_source=rss",
-        "source": "Al Jazeera English",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-25T17:11:34+00:00",
-        "summary": "A war meant to isolate Iran instead deepened Gulf pragmatism and strengthened support for diplomacy."
-      },
-      {
-        "title": "How the HPV vaccine changes how we think about cancer",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/how-the-hpv-vaccine-changes-how-we-think-about-cancer?traffic_source=rss",
-        "source": "Al Jazeera English",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-25T17:07:49+00:00",
-        "summary": "Al Jazeera’s Linh Nguyen explains how the HPV vaccine changes the way we think about cancer."
-      },
-      {
-        "title": "Could a Madison Square Garden wedding be the love story of Taylor Swift's wildest dreams?",
-        "link": "https://www.bbc.co.uk/news/articles/cy73e5xek8xo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World News",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-25T17:00:51+00:00",
-        "summary": "Officials confirmed someone applied for a permit to close the streets near Madison Square Garden on 4 July."
-      },
-      {
-        "title": "Families lay flowers on barbed wire barricade on anniversary of deadly Kenya protests",
-        "link": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World News",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-25T16:53:51+00:00",
-        "summary": "Protesters demand justice for the dozens killed during the 2024 demonstrations and last year's anniversary protests."
-      },
-      {
-        "title": "Venezuela struggles to respond to devastating twin earthquakes",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/venezuela-struggles-to-respond-to-devastating-twin-earthquakes?traffic_source=rss",
-        "source": "Al Jazeera English",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-25T16:36:06+00:00",
-        "summary": "Noris Soto says authorities appear to lack a clear response plan in the aftermath of two powerful earthquakes."
-      },
-      {
-        "title": "Oil price falls back to pre-Iran war levels",
-        "link": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World News",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-25T15:32:04+00:00",
-        "summary": "Signs that traffic through the key Strait of Hormuz shipping route is gradually resuming has helped to push the oil price down."
-      },
-      {
-        "title": "Key figure in South Africa police corruption scandal pleads guilty",
-        "link": "https://www.bbc.co.uk/news/articles/cx2j4g5k52jo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World News",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-25T14:00:13+00:00",
-        "summary": "Prosecutors say Vusimusi \"Cat\" Matlala could provide evidence against \"high-ranking officials\"."
-      },
-      {
-        "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
-        "link": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World News",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-25T13:09:58+00:00",
-        "summary": "The twin quakes come less than six months after Venezuela's then-leader Nicolás Maduro was seized by US forces."
-      },
-      {
-        "title": "Ryanair says it will reluctantly not charge parents to sit next to children",
-        "link": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World News",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-25T12:08:33+00:00",
-        "summary": "The airline had typically charged adults a fee of £8 each way to sit with their young children."
-      },
-      {
-        "title": "People flee as building collapses on Caracas outskirts",
-        "link": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World News",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-25T12:08:30+00:00",
-        "summary": "The capital and its surrounding areas have seen some of the worst damage from the 7.2 and 7.5 quakes, which hit a minute apart."
-      },
-      {
-        "title": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
-        "link": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World News",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-25T10:04:43+00:00",
-        "summary": "IBM says it has created the world's first known chip tech below 1 nanometre - but it will be some time before it's ready for production."
-      },
-      {
-        "title": "Trump asks Congress for billions for Iran war, after tension with Republicans",
-        "link": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World News",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-25T09:06:59+00:00",
-        "summary": "But the budget faces an uphill battle as the president spars with some members of his own party over the issue."
-      },
-      {
-        "title": "Find out which university degrees could earn you most across your lifetime",
-        "link": "https://www.bbc.co.uk/news/articles/c892dv0qy2jo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World News",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-25T08:32:12+00:00",
-        "summary": "New data suggests which university degrees have the highest and lowest financial returns over a lifetime."
-      },
-      {
-        "title": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities",
-        "link": "https://www.bbc.co.uk/news/articles/cwyklykn5dwo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World News",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-25T03:12:17+00:00",
-        "summary": "The firm alleged that Alibaba used fraudulent accounts to access data from its Claude AI model."
-      },
-      {
-        "title": "Independent MPs launch new Australian centrist party",
-        "link": "https://www.bbc.co.uk/news/articles/ckg76mgz0m1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World News",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-25T02:41:28+00:00",
-        "summary": "Zali Steggall and Allegra Spender say Community Strong Australia will offer citizens 'reason over rage'."
-      },
-      {
-        "title": "The ICE raids are over, but some Minnesotans say they still live in fear",
-        "link": "https://www.bbc.co.uk/news/articles/c0eyww7280xo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World News",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-25T02:40:13+00:00",
-        "summary": "Months after the Trump administration's immigration crackdown officially ended, Minneapolis is still feeling the impact."
-      },
-      {
-        "title": "This Indian state is trying to ensure no one grows old alone",
-        "link": "https://www.bbc.co.uk/news/articles/cg74dj4xev5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World News",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-25T02:38:03+00:00",
-        "summary": "Kerala is searching for new ways to care for its ageing population as migration leaves more elderly people living alone."
-      },
-      {
-        "title": "How to cope in a heatwave - according to you",
-        "link": "https://www.bbc.co.uk/news/articles/cze9w9xnprno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World News",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-25T00:18:35+00:00",
-        "summary": "From what to wear to getting a restful night's sleep, you share your tips for beating the heat."
-      },
-      {
-        "title": "Watch: Moment earthquakes hit airport and buildings in Caracas",
-        "link": "https://www.bbc.co.uk/news/videos/cvgl42lm8dwo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World News",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-24T23:40:47+00:00",
-        "summary": "Video filmed by BBC reporters, contributors and locals shows the aftermath, as frantic residents evacuate."
-      },
-      {
-        "title": "Philippines bans video game played by alleged high school shooter",
-        "link": "https://www.bbc.co.uk/news/articles/c14y7738nm8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World News",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-24T22:14:12+00:00",
-        "summary": "The rare school shooting that left three students killed and 20 others injured has shocked the country."
-      },
-      {
-        "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
-        "link": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World News",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-24T17:31:48+00:00",
-        "summary": "Rafael Grossi says the IAEA is \"working on modalities\" but an Iranian  minister says such access would only be part of a final deal with the US."
-      },
-      {
-        "title": "Air conditioning creates political divide after France records hottest day",
-        "link": "https://www.bbc.co.uk/news/articles/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World News",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-24T13:51:24+00:00",
-        "summary": "France is being forced to re-think its longstanding reservations about air-conditioning as temperatures soar."
-      },
-      {
-        "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
-        "link": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World News",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-24T13:03:35+00:00",
-        "summary": "Brad Lander unseats Dan Goldman in a race that laid bare the city's divisions over the Israel-Gaza war."
-      },
-      {
-        "title": "Biggest city in Crimea without power after Ukraine strikes",
-        "link": "https://www.bbc.co.uk/news/articles/c3ryv72pjqno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World News",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-24T09:48:24+00:00",
-        "summary": "Sevastopol's Moscow-installed governor warns there will be no electricity in some areas until the evening."
-      },
-      {
-        "title": "Temperatures hit record levels in western Europe",
-        "link": "https://www.bbc.co.uk/news/videos/c30y6qe2qqno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World News",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-23T21:46:34+00:00",
-        "summary": "France, Spain and Italy, have been hardest hit by the heatwave so far."
-      },
-      {
-        "title": "'We're begging' - Savannah Guthrie pleads for help as details of her mother’s case emerge",
-        "link": "https://www.bbc.co.uk/news/videos/cjdg1enzrk5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World News",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-23T16:41:44+00:00",
-        "summary": "Savannah Guthrie spoke on NBC's Today show about a note sent to the media in February regarding her missing mother, Nancy Guthrie, which claimed she had died."
-      },
-      {
-        "title": "Why was JD Vance in a luxury Swiss resort for talks with Iran?",
-        "link": "https://www.bbc.co.uk/news/videos/c4gyenl6nz0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World News",
-        "category": "Global Wire",
-        "topics": [
-          "world",
-          "politics"
-        ],
-        "published": "2026-06-23T05:38:36+00:00",
-        "summary": "BBC correspondent Jessica Parker explains some key points of the direct talks between the US vice-president and Iran."
-      }
-    ],
     "Southeast Asia": [
       {
         "title": "Indonesia could save Rp200 trillion by fixing fuel subsidy errors: DEN",
@@ -3344,1258 +4596,6 @@
         ],
         "published": "2026-06-25T02:41:30+00:00",
         "summary": "Indonesia has been named the official partner country for Russia&#39;s International Industrial Exhibition (INNOPROM) ..."
-      }
-    ],
-    "Technology": [
-      {
-        "title": "99 Prime Day Deals That Aren’t For Suckers, Up to 50% Off (2026)",
-        "link": "https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-25-2026/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-25T22:32:07+00:00",
-        "summary": "We've gone from A to Z to find Amazon's best Prime Day deals on the gear worth owning."
-      },
-      {
-        "title": "Venezuela’s Powerful Earthquakes Were a Rare ‘Seismic Doublet’",
-        "link": "https://www.wired.com/story/venezuelas-powerful-earthquakes-rare-seismic-doublet/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-25T22:31:21+00:00",
-        "summary": "The country was hit hard by a pair of quakes that happened in quick succession and were likely driven by stress being transferred from one part of the fault that runs through the country to another."
-      },
-      {
-        "title": "YouTube Shorts are getting even shorter with an update that lets you double the playback speed",
-        "link": "https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/",
-        "source": "TechCrunch",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "business"
-        ],
-        "published": "2026-06-25T22:02:12+00:00",
-        "summary": "YouTube Shorts is getting a makeover."
-      },
-      {
-        "title": "Microsoft adds another year to Windows 10 extended update program",
-        "link": "https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/",
-        "source": "Ars Technica",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science"
-        ],
-        "published": "2026-06-25T20:24:09+00:00",
-        "summary": "About a quarter of PCs are still running Microsoft's previous operating system."
-      },
-      {
-        "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
-        "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-        "source": "TechCrunch",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "business"
-        ],
-        "published": "2026-06-25T20:19:25+00:00",
-        "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says."
-      },
-      {
-        "title": "FCC may kill $2B program that connects schools and libraries to Internet",
-        "link": "https://arstechnica.com/tech-policy/2026/06/fcc-may-kill-2b-program-that-connects-schools-and-libraries-to-internet/",
-        "source": "Ars Technica",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science"
-        ],
-        "published": "2026-06-25T20:01:08+00:00",
-        "summary": "Carr cites screen time concerns, is accused of trying to be \"the nation’s parent.\""
-      },
-      {
-        "title": "Forget Peloton. Race to This 25% Off Deal on Hydrow’s Rowing Machine (2026)",
-        "link": "https://www.wired.com/story/hydrow-rowing-machine-deal-amazon-prime-day-2026/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-25T19:58:52+00:00",
-        "summary": "This Peloton-adjacent rowing machine gamifies your workout to a satisfying effect, and it’s up to 25 percent off right now for Prime Day."
-      },
-      {
-        "title": "Polymarket says hackers stole users’ funds",
-        "link": "https://techcrunch.com/2026/06/25/polymarket-says-hackers-stole-users-funds/",
-        "source": "TechCrunch",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "business"
-        ],
-        "published": "2026-06-25T19:58:46+00:00",
-        "summary": "The prediction market giant Polymarket said it's refunding users who had funds stolen due to a third-party breach."
-      },
-      {
-        "title": "Xbox follows Apple with price increases",
-        "link": "https://techcrunch.com/2026/06/25/xbox-follows-apple-with-price-increases/",
-        "source": "TechCrunch",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "business"
-        ],
-        "published": "2026-06-25T19:39:55+00:00",
-        "summary": "The company says the increases are being driven by rising memory and console storage prices, with costs more than 2.5x higher than previous levels."
-      },
-      {
-        "title": "Notion Mail shuts down amid agent takeover",
-        "link": "https://techcrunch.com/2026/06/25/notion-mail-shuts-down-amid-agent-takeover/",
-        "source": "TechCrunch",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "business"
-        ],
-        "published": "2026-06-25T19:14:46+00:00",
-        "summary": "The company said it is discontinuing its email inbox in favor of its AI agent offering as users are increasingly handing over the reins of their email to the agents."
-      },
-      {
-        "title": "We're Live-Blogging For The Real Heads Still Shopping Amazon Prime Day",
-        "link": "https://www.wired.com/live/amazon-prime-day-live-tracker-july-25-2026/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-25T19:13:33+00:00",
-        "summary": "The third day of Amazon Prime Day is for the real heads, and so is our live blog. We'll bring you deals, trends, and commentary until Amazon's annual summer sale finally hangs up its cleats."
-      },
-      {
-        "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
-        "link": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
-        "source": "Ars Technica",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science"
-        ],
-        "published": "2026-06-25T19:04:57+00:00",
-        "summary": "Notion is \"going all in on using agents to run your inbox.\""
-      },
-      {
-        "title": "Google finally releases a Finance Android app, promises iOS version later in 2026",
-        "link": "https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/",
-        "source": "Ars Technica",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science"
-        ],
-        "published": "2026-06-25T18:38:51+00:00",
-        "summary": "It took 20 years, but the Finance app arrives just in time to be packed full of AI."
-      },
-      {
-        "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
-        "link": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
-        "source": "Ars Technica",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science"
-        ],
-        "published": "2026-06-25T18:01:48+00:00",
-        "summary": "Alibaba allegedly used 25,000 accounts to mine Claude over 28.8 million exchanges."
-      },
-      {
-        "title": "Planet orbits so close to its star that their magnetic fields connect",
-        "link": "https://arstechnica.com/science/2026/06/planet-orbits-so-close-to-its-star-that-their-magnetic-fields-connect/",
-        "source": "Ars Technica",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science"
-        ],
-        "published": "2026-06-25T18:00:39+00:00",
-        "summary": "At the right point of the orbit and stellar cycle, the star's chromosphere brightens."
-      },
-      {
-        "title": "A Fatal Tesla Crash in Texas Sets Up a Legal Showdown",
-        "link": "https://www.wired.com/story/a-fatal-tesla-crash-in-texas-sets-up-a-legal-showdown/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-25T17:52:51+00:00",
-        "summary": "Did Full Self-Driving (Supervised), Tesla’s driver assistance feature, play a role in a woman’s death?"
-      },
-      {
-        "title": "a16z-backed Base Power is offering cheaper electricity to the power grid that needs it most",
-        "link": "https://techcrunch.com/2026/06/25/a16z-backed-base-power-is-offering-cheaper-electricity-to-the-power-grid-that-needs-it-most/",
-        "source": "TechCrunch",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "business"
-        ],
-        "published": "2026-06-25T17:52:05+00:00",
-        "summary": "Base Power is skipping the PJM's troubled interconnection queue by placing its batteries at people's homes, offering backup services in exchange."
-      },
-      {
-        "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
-        "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
-        "source": "TechCrunch",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "business"
-        ],
-        "published": "2026-06-25T17:38:27+00:00",
-        "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows."
-      },
-      {
-        "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
-        "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
-        "source": "TechCrunch",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "business"
-        ],
-        "published": "2026-06-25T16:55:00+00:00",
-        "summary": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition."
-      },
-      {
-        "title": "The Aerogarden I Recommend to Everyone Is Just $83 Right Now, a 63 Percent Discount",
-        "link": "https://www.wired.com/story/amazon-prime-day-aerogarden-deal-2026/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-25T16:54:55+00:00",
-        "summary": "This flash deal is a rare chance to buy one of our favorite hydroponic gardens for less than $100."
-      },
-      {
-        "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
-        "link": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
-        "source": "TechCrunch",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "business"
-        ],
-        "published": "2026-06-25T16:48:11+00:00",
-        "summary": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems."
-      },
-      {
-        "title": "Hacked Klue says criminals are deleting stolen customer data, but now other hackers are making threats",
-        "link": "https://techcrunch.com/2026/06/25/hacked-klue-says-criminals-are-deleting-stolen-customer-data-but-now-other-hackers-are-making-threats/",
-        "source": "TechCrunch",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "business"
-        ],
-        "published": "2026-06-25T16:40:15+00:00",
-        "summary": "Market research company Klue told customers that it believes the hacking group that stole their data is now deleting it. The company, however, warned about a second group of hackers wanting ransom."
-      },
-      {
-        "title": "17 Best Prime Day Fitness Tech Deals (2026) Up to $250 Off",
-        "link": "https://www.wired.com/story/amazon-prime-day-fitness-deals-06-25-2026/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-25T16:05:30+00:00",
-        "summary": "I've compiled a list of the best fitness tech deals this Amazon Prime Day, including smartwatches, walking pads, and recovery gear. You can thank me later."
-      },
-      {
-        "title": "Rippling now wants to be your entire data stack",
-        "link": "https://techcrunch.com/2026/06/25/parker-conrad-knows-which-employees-are-worth-their-ai-spend-and-says-rippling-can-help-you-too/",
-        "source": "TechCrunch",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "business"
-        ],
-        "published": "2026-06-25T16:00:00+00:00",
-        "summary": "\"There were employees doing things like, 'Claude is so helpful for me — it analyzes my calendar and my email and puts together a plan for me,'\" he says. \"That person was spending at a run rate of $30,000 a year for this.\""
-      },
-      {
-        "title": "Google Finance gets a dedicated app for Android",
-        "link": "https://techcrunch.com/2026/06/25/google-finance-gets-a-dedicated-app-for-android/",
-        "source": "TechCrunch",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "business"
-        ],
-        "published": "2026-06-25T16:00:00+00:00",
-        "summary": "Users will be able to access their watchlists, real-time market data, live financial news, and Google's AI-powered \"Key Moments\" feature, which explains why stocks moved."
-      },
-      {
-        "title": "Stop Mowing Your Grass Forever With One of These Highly Rated Robot Mowers On Sale",
-        "link": "https://www.wired.com/story/amazon-prime-day-robot-mower-deals-june-2026/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-25T15:22:36+00:00",
-        "summary": "You don’t need to cut your own grass anymore. Most of the best robot mowers I’ve tested are on sale for Prime Day."
-      },
-      {
-        "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
-        "link": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
-        "source": "TechCrunch",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "business"
-        ],
-        "published": "2026-06-25T14:55:38+00:00",
-        "summary": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live."
-      },
-      {
-        "title": "Trump administration bars Polestar from selling its new EVs in the US",
-        "link": "https://techcrunch.com/2026/06/25/trump-admin-bars-polestar-from-selling-its-new-evs-in-the-us/",
-        "source": "TechCrunch",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "business"
-        ],
-        "published": "2026-06-25T14:55:25+00:00",
-        "summary": "The Department of Commerce declined to give the Chinese-owned automaker a special authorization to keep selling EVs in the U.S."
-      },
-      {
-        "title": "Apple raises Mac and iPad prices, spares iPhone for now",
-        "link": "https://techcrunch.com/2026/06/25/apple-raises-mac-and-ipad-prices-spares-iphone-for-now/",
-        "source": "TechCrunch",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "business"
-        ],
-        "published": "2026-06-25T14:52:35+00:00",
-        "summary": "Apple raises prices of MacBook Air and Pro along with iPad Air and Pro."
-      },
-      {
-        "title": "Feds deny Polestar authorization to sell cars in US from model year 2027",
-        "link": "https://arstechnica.com/cars/2026/06/feds-deny-polestar-authorization-to-sell-cars-in-us-from-model-year-2027/",
-        "source": "Ars Technica",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science"
-        ],
-        "published": "2026-06-25T14:40:23+00:00",
-        "summary": "Unlike with Volvo, there will be no authorization for Polestar to sell its cars here."
-      },
-      {
-        "title": "Kobo Libra Colour Sale (2026): The E-Reader Deal Worth Jumping on This Prime Day",
-        "link": "https://www.wired.com/story/amazon-prime-day-kobo-deal-2026/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-25T14:24:57+00:00",
-        "summary": "The color e-reader that’s most worth your money this Prime Day isn't from Amazon."
-      },
-      {
-        "title": "Repositioning retail for the AI era",
-        "link": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
-        "source": "MIT Technology Review",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science"
-        ],
-        "published": "2026-06-25T14:22:59+00:00",
-        "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inventory moves through supply chains, how engineers ship code faster, and&#8230;"
-      },
-      {
-        "title": "Apple ratchets up prices, blames the cost of memory",
-        "link": "https://arstechnica.com/apple/2026/06/apple-ratchets-up-prices-blames-the-cost-of-memory/",
-        "source": "Ars Technica",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science"
-        ],
-        "published": "2026-06-25T14:14:37+00:00",
-        "summary": "Some Macs are hundreds of dollars more expensive today than yesterday."
-      },
-      {
-        "title": "21 Best Prime Day Beauty Deals of 2026 (We Sifted Through Hundreds to Pick Them)",
-        "link": "https://www.wired.com/story/best-prime-day-beauty-deals-06-25-2026/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-25T14:00:58+00:00",
-        "summary": "It wouldn't be Amazon Prime Day without some beauty deals. Here's a roundup of all our favorites."
-      },
-      {
-        "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
-        "link": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
-        "source": "TechCrunch",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "business"
-        ],
-        "published": "2026-06-25T14:00:00+00:00",
-        "summary": "Two days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register today."
-      },
-      {
-        "title": "Trump administration proposes axing brake-pedal requirement for AVs in a boost for Tesla",
-        "link": "https://techcrunch.com/2026/06/25/trump-admin-proposes-axing-brake-pedal-requirement-for-avs-in-a-boost-for-tesla/",
-        "source": "TechCrunch",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "business"
-        ],
-        "published": "2026-06-25T13:58:05+00:00",
-        "summary": "The Department of Transportation wants to remove the brake-pedal requirement for vehicles \"designed to be driven exclusively by automated driving systems.\""
-      },
-      {
-        "title": "The \"sad inevitability\" of Europe's heat wave",
-        "link": "https://arstechnica.com/science/2026/06/the-sad-inevitability-of-europes-heat-wave/",
-        "source": "Ars Technica",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science"
-        ],
-        "published": "2026-06-25T13:54:46+00:00",
-        "summary": "Europeans are baking under their second heat wave of the summer."
-      },
-      {
-        "title": "I Found the Best iPad Deal for Amazon Prime Day This Year (2026)",
-        "link": "https://www.wired.com/story/the-ipad-you-should-buy-on-amazon-prime-day-this-year-2026/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-25T13:52:46+00:00",
-        "summary": "With four iPads to choose from, there’s a clear winner in terms of discounts for Amazon Prime Day."
-      },
-      {
-        "title": "New effort will get genome sequences for entire Endangered Species list",
-        "link": "https://arstechnica.com/science/2026/06/new-effort-will-get-genome-sequences-for-entire-endangered-species-list/",
-        "source": "Ars Technica",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science"
-        ],
-        "published": "2026-06-25T13:40:34+00:00",
-        "summary": "Colossal Biosciences will be biobanking tissues from all of them as well."
-      },
-      {
-        "title": "Best Prime Day Action Cameras Deals I've Found (2026): GoPro, Insta360, DJI",
-        "link": "https://www.wired.com/story/prime-day-camera-deals-06-25-2026/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-25T13:30:43+00:00",
-        "summary": "Action cameras are perfect for capturing travel adventures, recording social media vlogs, and more. Make use of these great Prime Day deals."
-      },
-      {
-        "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
-        "link": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
-        "source": "TechCrunch",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "business"
-        ],
-        "published": "2026-06-25T13:30:00+00:00",
-        "summary": "Adobe said that it will integrate Topaz Labs' tools across its apps."
-      },
-      {
-        "title": "Every Homo naledi we know of is female, and the implications are fascinating",
-        "link": "https://arstechnica.com/science/2026/06/every-homo-naledi-we-know-of-is-female-and-the-implications-are-fascinating/",
-        "source": "Ars Technica",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science"
-        ],
-        "published": "2026-06-25T13:28:54+00:00",
-        "summary": "\"There is no natural explanation,\" says paleoanthropologist John Hawks."
-      },
-      {
-        "title": "Colossal and the US Government Are Creating an Endangered Species ‘BioVault’",
-        "link": "https://www.wired.com/story/colossal-interior-department-team-up-endangered-species-dna/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-25T13:00:00+00:00",
-        "summary": "The move comes as the Trump administration is trying to weaken the act that’s meant to protect endangered species from going extinct in the first place."
-      },
-      {
-        "title": "Apple and Audi Alumni Have Made a Luxe EV Based on the Moon Buggy",
-        "link": "https://www.wired.com/story/amble-one-luxe-ev-buggy/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-25T13:00:00+00:00",
-        "summary": "The Amble One is a street-legal $25,000 electric buggy designed for luxury resorts—but a car is also coming."
-      },
-      {
-        "title": "21 Walmart Deals We Like Better Than That Other Sale Happening Right Now",
-        "link": "https://www.wired.com/story/walmart-deals-apd-06-25-2026/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-25T12:58:04+00:00",
-        "summary": "Welcome to Walmart deals for folks who’d rather not shop at Amazon. These are the best gadget deals at Walmart this Prime Day."
-      },
-      {
-        "title": "The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law",
-        "link": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/",
-        "source": "MIT Technology Review",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science"
-        ],
-        "published": "2026-06-25T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Europe’s extreme heat is shutting down power plants Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to&#8230;"
-      },
-      {
-        "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
-        "link": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
-        "source": "TechCrunch",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "business"
-        ],
-        "published": "2026-06-25T12:00:38+00:00",
-        "summary": "Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country."
-      },
-      {
-        "title": "Two Massive Earthquakes Struck Venezuela. Thousands Are Feared Dead",
-        "link": "https://www.wired.com/story/thousands-feared-dead-after-venezuela-struck-by-strongest-earthquakes-in-over-125-years/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-25T11:56:58+00:00",
-        "summary": "The country’s interim leader declared a state of emergency on Wednesday following shocks measuring 7.5 magnitude after two quakes hit in less than a minute."
-      },
-      {
-        "title": "Get Up to 36% Off With the Best Prime Day Kindle Deals (2026): Paperwhite, Colorsoft, Kids",
-        "link": "https://www.wired.com/story/kindle-prime-day-deals-06-25-2026/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-25T11:42:12+00:00",
-        "summary": "There’s no better time to get a Kindle than during Amazon's own sale event."
-      },
-      {
-        "title": "Get Up to 43% Off With the Best Prime Day TV Deals Plus Streaming Devices (2026)",
-        "link": "https://www.wired.com/story/best-prime-day-tv-deals-06-25-2026/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-25T11:39:53+00:00",
-        "summary": "These are the hottest Prime Day deals on our favorite TVs and streaming devices."
-      },
-      {
-        "title": "Best Bluetooth Speakers (2026): JBL, Sonos, Bose, and More",
-        "link": "https://www.wired.com/gallery/best-bluetooth-speakers/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-25T11:32:00+00:00",
-        "summary": "Discover the best Bluetooth speakers of all shapes and sizes, from waterproof clip-ons to a massive boom box."
-      },
-      {
-        "title": "I Found The Best Amazon Prime Day Headphone Deals (2026)",
-        "link": "https://www.wired.com/story/best-prime-day-headphone-deals-06-25-2026/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-25T11:27:43+00:00",
-        "summary": "From AirPods to on-ears, we’ve tested hundreds of pairs of headphones. Here are the best deals from Amazon’s biggest sale event."
-      },
-      {
-        "title": "The 23 Best Amazon Prime Day Deals Under $30 We've Found (2026)",
-        "link": "https://www.wired.com/story/best-amazon-prime-day-deals-under-30-06-25-2026/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-25T11:11:34+00:00",
-        "summary": "Everything is expensive. Treat yourself to one of these WIRED-tested and -approved Prime Day picks under $30."
-      },
-      {
-        "title": "World Cup Teams Are in a Race for AI Dominance",
-        "link": "https://www.wired.com/story/fifa-world-cup-2026-artificial-intelligence-tools/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-25T11:00:00+00:00",
-        "summary": "This year, FIFA is providing an AI agent that any team can use. Is it enough to level the playing field or will future winners be determined by which team can afford the best tools?"
-      },
-      {
-        "title": "This Buy-It-For-Life Coffee Maker Just Won Prime Day",
-        "link": "https://www.wired.com/story/amazon-prime-day-deal-2026-moccamaster/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-25T10:47:03+00:00",
-        "summary": "The Moccamaster Prime Day deal is the best price I've seen this year, on a coffee maker that will probably outlive you."
-      },
-      {
-        "title": "The 23 Best Prime Day Deals Under $100 in 2026",
-        "link": "https://www.wired.com/story/best-prime-day-deals-under-100-06-25-2026/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-25T10:44:04+00:00",
-        "summary": "Times are hard in 2026. These Amazon Prime Day deals under $100 on earbuds, Kindles, and other tested products should help make life just a little bit easier."
-      },
-      {
-        "title": "After More Than a Decade of Waiting, ‘GTA VI’ Is Finally Around the Corner",
-        "link": "https://www.wired.com/story/after-more-than-a-decade-of-waiting-gta-vi-is-finally-around-the-corner/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-25T10:30:00+00:00",
-        "summary": "We’re finally getting Grand Theft Auto VI, poised to be one of the largest gaming releases in history."
-      },
-      {
-        "title": "Best Prime Day Tech Deals Offer Up to $280 Off (2026): Phones, Watches, and More",
-        "link": "https://www.wired.com/story/best-prime-day-tech-deals-06-25-2026/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-25T10:05:24+00:00",
-        "summary": "Don't pay full price—snag one of these tasty Prime Day tech deals on some of our favorite WIRED-tested gadgets."
-      },
-      {
-        "title": "IBM claims world’s first sub-1 nanometer chip technology",
-        "link": "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/",
-        "source": "Ars Technica",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science"
-        ],
-        "published": "2026-06-25T10:00:55+00:00",
-        "summary": "IBM’s nanostack transistors could boost chip performance or energy efficiency."
-      },
-      {
-        "title": "Cellebrite said it cut off Russia, but Russia used its tools anyway",
-        "link": "https://techcrunch.com/2026/06/25/cellebrite-said-it-cut-off-russia-but-russia-used-is-tools-anyway/",
-        "source": "TechCrunch",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "business"
-        ],
-        "published": "2026-06-25T10:00:00+00:00",
-        "summary": "Security researchers found evidence that Russian authorities hacked the iPhone of a political opponent using a phone-unlocking device made by Cellebrite, even after the company said it would stop selling to Putin’s government."
-      },
-      {
-        "title": "What Europe’s heat wave means for the power grid",
-        "link": "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/",
-        "source": "MIT Technology Review",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science"
-        ],
-        "published": "2026-06-25T10:00:00+00:00",
-        "summary": "It’s been hard to look away from headlines about the European heat wave this week. Temperatures are breaking records across the continent, and the weather is threatening lives, shutting down schools, and in one particularly ironic case, forcing the cancellation of a London Climate Action Week event about extreme heat.  As the summer ramps up&#8230;"
-      },
-      {
-        "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
-        "link": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
-        "source": "MIT Technology Review",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science"
-        ],
-        "published": "2026-06-25T10:00:00+00:00",
-        "summary": "IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company’s previous state-of-the-art technology announced in 2021. The design could pave the way for faster and more energy efficient computers for years to come. For more than half&#8230;"
-      },
-      {
-        "title": "British Police Built a Sprawling Crime-Prediction Machine. Some Results Couldn’t Be Trusted",
-        "link": "https://www.wired.com/story/british-police-built-a-sprawling-crime-prediction-machine-some-results-couldnt-be-trusted/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-25T10:00:00+00:00",
-        "summary": "As UK police embrace the AI revolution, a WIRED investigation reveals the messy inside story of one region’s experiment with predictive analytics."
-      },
-      {
-        "title": "17 Best Prime Day Apple Deals Offering Up to 30% Off: iPad, Apple Watch, MacBooks, and More (2026)",
-        "link": "https://www.wired.com/story/best-prime-day-apple-deals-06-25-2026/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-25T08:39:16+00:00",
-        "summary": "Apple deals abound for Amazon Prime Day. We've rounded up the best deals on Apple Watches, iPhones, MacBooks, iPads, and accessories."
-      },
-      {
-        "title": "Dell Coupon Codes: 20% Off for June 2026",
-        "link": "https://www.wired.com/story/dell-coupon-code/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-25T05:00:00+00:00",
-        "summary": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech."
-      },
-      {
-        "title": "50% Off DoorDash Promo Code | June 2026",
-        "link": "https://www.wired.com/story/doordash-promo-code/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-25T05:00:00+00:00",
-        "summary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users."
-      },
-      {
-        "title": "NordVPN Coupons: 75% Off, Plus 3 Months Free in June 2026",
-        "link": "https://www.wired.com/story/nordvpn-coupon/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-25T05:00:00+00:00",
-        "summary": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes."
-      },
-      {
-        "title": "Google Workspace Promo Codes: 14% Off for June",
-        "link": "https://www.wired.com/story/google-workspace-promo-code/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-25T05:00:00+00:00",
-        "summary": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers."
-      },
-      {
-        "title": "AT&T Promo Codes: $50 Off This June 2026",
-        "link": "https://www.wired.com/story/att-promo-code/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-25T05:00:00+00:00",
-        "summary": "Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&T coupons and deals."
-      },
-      {
-        "title": "30% Off Samsung Promo Code | June 2026",
-        "link": "https://www.wired.com/story/samsung-promo-codes/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-25T05:00:00+00:00",
-        "summary": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25."
-      },
-      {
-        "title": "10 Best Protein Powders, According to 3 Years of Testing (2026)",
-        "link": "https://www.wired.com/gallery/best-protein-powders/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-25T04:14:20+00:00",
-        "summary": "I found the best protein powders that won’t make your morning smoothie taste like drywall."
-      },
-      {
-        "title": "The Skylight Calendar Is One of My Favorite Products On Sale for Prime Day",
-        "link": "https://www.wired.com/story/skylight-calendar-prime-day-deal-2026/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-25T00:59:18+00:00",
-        "summary": "The Skylight Calendar 2 and Calendar Max are both on sale for Prime Day if you've been dreaming of a digital calendar to manage your household."
-      },
-      {
-        "title": "Hotly anticipated Grand Theft Auto VI will cost more than other AAA games",
-        "link": "https://arstechnica.com/gaming/2026/06/grand-theft-auto-vi-will-cost-80-without-a-physical-disc/",
-        "source": "Ars Technica",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science"
-        ],
-        "published": "2026-06-24T22:47:03+00:00",
-        "summary": "GTA6 might be an outlier, though—at least for now."
-      },
-      {
-        "title": "Best Prime Day Deals on LED Masks and Hair Growth Tools That Actually Work",
-        "link": "https://www.wired.com/story/best-led-devices-prime-day-deals-2026/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-24T22:38:22+00:00",
-        "summary": "Whether you're looking to upgrade your skin care routine or invest in hair restoration, these are the best Prime Day deals on some of our favorite red light therapy devices."
-      },
-      {
-        "title": "How to Opt Out of Google Search’s New AI Data Training Feature",
-        "link": "https://www.wired.com/story/how-to-opt-out-of-google-search-new-ai-data-training/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-24T22:36:16+00:00",
-        "summary": "Google’s Search history update stores media uploads from your interactions, like images used in reverse image searches, for training its AI models."
-      },
-      {
-        "title": "OpenAI and Broadcom announce chip designed for LLM inference at scale",
-        "link": "https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/",
-        "source": "Ars Technica",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science"
-        ],
-        "published": "2026-06-24T22:28:18+00:00",
-        "summary": "The silicon race is heating up amid the struggle to keep up with demand."
-      },
-      {
-        "title": "13 years and $500 million for a stage adapter? Report justifies NASA cancellations.",
-        "link": "https://arstechnica.com/space/2026/06/analysis-finds-the-exploration-programs-nasa-recently-canceled-were-running-way-late/",
-        "source": "Ars Technica",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science"
-        ],
-        "published": "2026-06-24T21:41:03+00:00",
-        "summary": "\"Contract values for these efforts ballooned from nearly $2.8 billion to $5.9 billion.\""
-      },
-      {
-        "title": "Up to $400 Off: The Smart Fridge That Haunts My Algorithm",
-        "link": "https://www.wired.com/story/rocco-sale-june-amazon-prime-day-2026/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-24T21:32:45+00:00",
-        "summary": "The Rocco isn’t on Amazon, but its rare sale knocks up to $400 off a fridge that can track your drinks and make any room look cooler. Save through July 5."
-      },
-      {
-        "title": "US ends hantavirus outbreak response with no answers on draconian quarantines",
-        "link": "https://arstechnica.com/health/2026/06/us-ends-hantavirus-outbreak-response-with-no-answers-on-draconian-quarantines/",
-        "source": "Ars Technica",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science"
-        ],
-        "published": "2026-06-24T21:28:39+00:00",
-        "summary": "We still don't know why RFK Jr. overruled CDC expert to order strict quarantines."
-      },
-      {
-        "title": "The Best Roborock Deal This Prime Day (2026)",
-        "link": "https://www.wired.com/story/amazon-prime-day-roborock-deals-2026/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-24T21:13:31+00:00",
-        "summary": "Shopping Roborock’s models can feel overwhelming. But there’s just one I recommend snagging during Prime Day."
-      },
-      {
-        "title": "A24 Knows You’re Mad About the Google AI Collab",
-        "link": "https://www.wired.com/story/a24-knows-youre-mad-about-the-google-ai-collab/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-24T21:05:51+00:00",
-        "summary": "Indie movie fans are upset about Google DeepMind’s $75 million investment in the studio, which comes as AI companies are deepening their influence in Hollywood."
-      },
-      {
-        "title": "One-two punch delivered in global operation disrupts cybercrime \"assembly line\"",
-        "link": "https://arstechnica.com/security/2026/06/one-two-punch-delivered-in-global-operation-disrupts-cybercrime-assembly-line/",
-        "source": "Ars Technica",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science"
-        ],
-        "published": "2026-06-24T21:03:34+00:00",
-        "summary": "\"Operation Endgame\" simultaneously disrupts two widely used crime tools."
-      },
-      {
-        "title": "Best Dyson Deals for Prime Day: Vacuums, Hair Tools, and More (2026)",
-        "link": "https://www.wired.com/story/prime-day-dyson-deals-2026/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-24T20:46:41+00:00",
-        "summary": "It's one of the best times to snag yourself a Dyson device, whether it's a vacuum or a beauty tool."
-      },
-      {
-        "title": "Best Red-Light Therapy Mask: WIRED's Top 5, Ranked (2026)",
-        "link": "https://www.wired.com/story/led-face-masks-and-red-light-therapy/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-24T20:31:13+00:00",
-        "summary": "Your face called, and it’s low-key offended you might trust TikTok more than WIRED."
-      },
-      {
-        "title": "Underpromise, overdeliver? Hands-on with the $24,950 Slate auto.",
-        "link": "https://arstechnica.com/features/2026/06/we-take-a-ride-in-slates-24950-electric-pickup/",
-        "source": "Ars Technica",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science"
-        ],
-        "published": "2026-06-24T20:28:07+00:00",
-        "summary": "It has 205 miles of bare-bones range."
-      },
-      {
-        "title": "Disney agreed to $50M settlement over claims it made live-TV streaming expensive",
-        "link": "https://arstechnica.com/tech-policy/2026/06/disney-agreed-to-50m-settlement-over-claims-it-made-live-tv-streaming-expensive/",
-        "source": "Ars Technica",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science"
-        ],
-        "published": "2026-06-24T20:22:58+00:00",
-        "summary": "Lawsuit alleged Disney inflated market prices by making carriers include ESPN."
-      },
-      {
-        "title": "The Best Fake Christmas Trees on the Market Are 50% Off for Prime Day (2026)",
-        "link": "https://www.wired.com/story/balsam-hill-apd-june-2026/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-24T20:19:51+00:00",
-        "summary": "Save big during Prime Day on the best fake Christmas trees you can buy if you’re willing to stash them for six months."
-      },
-      {
-        "title": "Best Prime Day Vacuum Deals Offer Up to 42% Off (2026): Shark, Dyson, Bissell",
-        "link": "https://www.wired.com/story/prime-day-vacuum-deals-06-24-2026/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-24T20:12:56+00:00",
-        "summary": "Move over, spring cleaning. These vacuum deals will give your home the cleanest summer yet thanks to Amazon Prime Day."
-      },
-      {
-        "title": "Experimental wine bottle tracks oxygen moving through the cork",
-        "link": "https://arstechnica.com/science/2026/06/experimental-wine-bottle-tracks-oxygen-moving-through-the-cork/",
-        "source": "Ars Technica",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science"
-        ],
-        "published": "2026-06-24T20:04:32+00:00",
-        "summary": "The small bit of air in the bottle sees oxygen and other chemicals move in and out."
-      },
-      {
-        "title": "Best Prime Day Deals I've Found on Window and Portable Air Conditioners (2026)",
-        "link": "https://www.wired.com/story/amazon-prime-day-2026-window-portable-air-conditioners/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-24T19:59:28+00:00",
-        "summary": "Window ACs and portable air conditioners are on great Prime Day deals. Get some, uh, cool prices."
-      },
-      {
-        "title": "Every Time Norway Scores at the World Cup the City of Bergen Trembles",
-        "link": "https://www.wired.com/story/world-cup-norway-scores-city-of-bergen-trembles/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-24T19:26:06+00:00",
-        "summary": "This curious phenomenon was documented by the seismometer at the University of Bergen, which recorded slight vibrations whenever the national team scored a goal."
-      },
-      {
-        "title": "I Met With China’s Top AI Experts. They’re Freaking Out, Too",
-        "link": "https://www.wired.com/story/ai-arms-race-china-us-cooperation/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-24T18:45:00+00:00",
-        "summary": "The AI arms race between China and the US has researchers on both sides worried about a “Chernobyl moment.”"
-      },
-      {
-        "title": "The Best Breville Espresso Machine Is 30 Percent Off Right Now (2026)",
-        "link": "https://www.wired.com/story/breville-deals-apd-6-24-2026/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-24T17:31:32+00:00",
-        "summary": "You can save hundreds of dollars on Breville appliances during Amazon Prime Day."
-      },
-      {
-        "title": "These Prime Day Gift Card Deals Are Basically Free Money (2026)",
-        "link": "https://www.wired.com/story/amazon-prime-day-gift-card-deals-2026/",
-        "source": "Wired",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science",
-          "culture"
-        ],
-        "published": "2026-06-24T16:04:26+00:00",
-        "summary": "If you were planning on spending anyway, these deals are essentially free money for your favorite restaurants and stores."
-      },
-      {
-        "title": "Europe’s extreme heat is shutting down power plants",
-        "link": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
-        "source": "MIT Technology Review",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science"
-        ],
-        "published": "2026-06-24T15:25:28+00:00",
-        "summary": "Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to help handle the load. On June 23, France saw its hottest day since record-keeping began in 1947.&#8230;"
-      },
-      {
-        "title": "The Download: introducing the Engineering issue",
-        "link": "https://www.technologyreview.com/2026/06/24/1139658/the-download-introducing-engineering-issue/",
-        "source": "MIT Technology Review",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science"
-        ],
-        "published": "2026-06-24T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Engineering issue We can’t fix everything, but we can be ambitious. We can take on the challenge of making the world better through human ingenuity. That’s what the new&#8230;"
-      },
-      {
-        "title": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
-        "link": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
-        "source": "MIT Technology Review",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science"
-        ],
-        "published": "2026-06-24T12:00:00+00:00",
-        "summary": "The common cold comes for us all—often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles. Now the payment company Stripe, founded by brothers Patrick and John Collison, says it will fund a new&#8230;"
-      },
-      {
-        "title": "The emergence of the web data infrastructure layer for AI",
-        "link": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
-        "source": "MIT Technology Review",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science"
-        ],
-        "published": "2026-06-24T11:59:54+00:00",
-        "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.&#160; To understand this challenge, consider the foundation of the web itself. The web was not designed&#8230;"
-      },
-      {
-        "title": "This flying solar-powered platform could deliver better internet from the air",
-        "link": "https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/",
-        "source": "MIT Technology Review",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science"
-        ],
-        "published": "2026-06-24T09:00:00+00:00",
-        "summary": "As soon as August, a giant silver bullet will cut its way through the dry air of the southwestern US and cross the Pacific to reach the coast of Japan.&#160; Once there, the roughly 200-foot-long craft, built by the New Mexico–based company Sceye, will park some 18 kilometers above the ocean’s surface, in a wispy-thin&#8230;"
-      },
-      {
-        "title": "All challenges big and small",
-        "link": "https://www.technologyreview.com/2026/06/24/1138853/editors-letter-july-2026/",
-        "source": "MIT Technology Review",
-        "category": "Technology",
-        "topics": [
-          "technology",
-          "science"
-        ],
-        "published": "2026-06-24T09:00:00+00:00",
-        "summary": "When I was 18, I skipped my high school graduation and headed to Kuwait. It was 1991, the first Gulf War had just ended, and the country was in complete chaos. There was little to no electricity, aside from generator power. Rubble and unexploded ordnance were everywhere. Massive oil fires lit up the desert and&#8230;"
       }
     ],
     "Latin America": [
@@ -5989,6 +5989,19 @@
   },
   "articles": [
     {
+      "title": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/",
+      "source": "Wired",
+      "category": "Technology",
+      "topics": [
+        "technology",
+        "science",
+        "culture"
+      ],
+      "published": "2026-06-25T23:13:45+00:00",
+      "summary": "Amazon-owned MGM Studios’ decision to drop the OpenAI movie is just part of AI and film industries becoming increasingly intertwined. On Uncanny Valley, we take a look at where this is all headed."
+    },
+    {
       "title": "【速報中】W杯 日本×スウェーデン 日本代表 先発3人入れ替え",
       "link": "http://www3.nhk.or.jp/news/html/20260626/k10015160411000.html",
       "source": "NHK World",
@@ -5999,6 +6012,18 @@
       ],
       "published": "2026-06-25T23:13:27+00:00",
       "summary": "サッカーワールドカップ北中米大会、世界ランキング18位の日本代表は、1次リーグ最終第3戦の世界38位・スウェーデン戦に臨んでいます。日本は勝つか引き分けると、自力で2位以上での決勝トーナメント進出が決まります。日本は前の試合から先発3人入れ替えてきました。同じ時間に行われるオランダとチュニジアの試合経過も含めて、最新情報をお伝えします。NHKは総合とBSプレミアム4Kで中継するほか、NHK ONEでも配信しています。"
+    },
+    {
+      "title": "Why the trail went cold in Nancy Guthrie case",
+      "link": "https://www.bbc.co.uk/news/articles/cy064kg3n0ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World News",
+      "category": "Global Wire",
+      "topics": [
+        "world",
+        "politics"
+      ],
+      "published": "2026-06-25T23:12:22+00:00",
+      "summary": "The lack of a breakthrough in the abduction of a famous TV anchor's mother is puzzling given the huge publicity."
     },
     {
       "title": "SpaceX stock is a terrible buy — what that actually means for the bull market",
@@ -10161,18 +10186,6 @@
       "summary": "Apple deals abound for Amazon Prime Day. We've rounded up the best deals on Apple Watches, iPhones, MacBooks, iPads, and accessories."
     },
     {
-      "title": "Find out which university degrees could earn you most across your lifetime",
-      "link": "https://www.bbc.co.uk/news/articles/c892dv0qy2jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World News",
-      "category": "Global Wire",
-      "topics": [
-        "world",
-        "politics"
-      ],
-      "published": "2026-06-25T08:32:12+00:00",
-      "summary": "New data suggests which university degrees have the highest and lowest financial returns over a lifetime."
-    },
-    {
       "title": "Is investors’ love affair with India ending?",
       "link": "https://www.scmp.com/opinion/asia-opinion/article/3358283/investors-love-affair-india-ending?utm_source=rss_feed",
       "source": "South China Morning Post",
@@ -11386,19 +11399,6 @@
       ],
       "published": "2026-06-24T17:31:32+00:00",
       "summary": "You can save hundreds of dollars on Breville appliances during Amazon Prime Day."
-    },
-    {
-      "title": "These Prime Day Gift Card Deals Are Basically Free Money (2026)",
-      "link": "https://www.wired.com/story/amazon-prime-day-gift-card-deals-2026/",
-      "source": "Wired",
-      "category": "Technology",
-      "topics": [
-        "technology",
-        "science",
-        "culture"
-      ],
-      "published": "2026-06-24T16:04:26+00:00",
-      "summary": "If you were planning on spending anyway, these deals are essentially free money for your favorite restaurants and stores."
     },
     {
       "title": "All known Homo naledi skeletons seem to be female",
