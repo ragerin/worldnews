@@ -1,0 +1,18 @@
+{
+  "name": "worldnews",
+  "version": "1.0.0",
+  "description": "Global news aggregator - static site built with Eleventy",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  },
+  "dependencies": {
+    "luxon": "^3.5.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

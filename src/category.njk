@@ -1,0 +1,46 @@
+---
+layout: layout.njk
+pagination:
+  data: news.categories
+  size: 1
+  alias: categoryName
+permalink: "category/{{ categoryName | categorySlug }}/index.html"
+---
+
+{% set articles = news.categories[categoryName] %}
+
+<a href="/" style="font-size:0.82rem; color: var(--muted);">&larr; All categories</a>
+
+<h1 class="page-heading" style="margin-top: 0.75rem;">{{ categoryName }}</h1>
+<p class="page-meta">
+  {{ articles | length }} article{% if articles | length != 1 %}s{% endif %}
+  {% if news.generated_at %}&middot; Updated {{ news.generated_at | readableDate }}{% endif %}
+</p>
+
+{% if not articles or articles | length == 0 %}
+<div class="empty">
+  <p>No articles found for this category.</p>
+</div>
+{% else %}
+<div class="article-grid">
+  {% for article in articles %}
+  <article class="article-card">
+    <div class="article-source">{{ article.source }}</div>
+    <h2 class="article-title">
+      <a href="{{ article.link }}" rel="noopener" target="_blank">{{ article.title }}</a>
+    </h2>
+    {% if article.summary %}
+    <p class="article-summary">{{ article.summary }}</p>
+    {% endif %}
+    <div class="article-footer">
+      {% if article.published %}
+      <time class="article-date" datetime="{{ article.published | isoDate }}">
+        {{ article.published | readableDate }}
+      </time>
+      {% endif %}
+      <span class="tag">{{ article.source }}</span>
+    </div>
+  </article>
+  {% endfor %}
+</div>
+{% endif %}

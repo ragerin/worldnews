@@ -1,0 +1,134 @@
+# feeds.yaml
+#
+# Configuration for the news aggregator. Each entry defines one RSS/Atom/RDF
+# feed to fetch, the category it should be tagged with, and metadata to help
+# with maintenance.
+#
+# Fields:
+#   name        - display name of the source (shown on the site)
+#   url         - the feed URL to fetch
+#   category    - the fixed category this feed's articles are tagged with
+#   language    - ISO 639-1 code, for future filtering (not used yet)
+#   enabled     - true/false - set to false to disable without deleting config
+#   confidence  - "high" / "medium" / "low" - how well-verified this URL is.
+#                 "low" or "medium" entries should be checked manually before
+#                 relying on them; see README.md "Known verification gaps" section.
+#   notes       - any caveats (ToS, attribution requirements, etc.)
+
+feeds:
+
+  # --- Global / Middle East ---
+  - name: "Al Jazeera English"
+    url: "https://www.aljazeera.com/xml/rss/all.xml"
+    category: "Middle East / Global"
+    language: "en"
+    enabled: true
+    confidence: "high"
+    notes: "Qatar-based, partially state-funded. Broad global coverage."
+
+  # --- Africa ---
+  - name: "AllAfrica (continent-wide)"
+    url: "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf"
+    category: "Africa"
+    language: "en"
+    enabled: true
+    confidence: "high"
+    notes: >
+      RDF format (feedparser handles this). REQUIRES attribution: any site
+      displaying these headlines must link back to https://allafrica.com or
+      the specific feed's main page, and credit allAfrica.com. Built into
+      the site footer/template.
+
+  # --- East Asia ---
+  - name: "Kyodo News English"
+    url: "https://english.kyodonews.net/rss/all.xml"
+    category: "East Asia"
+    language: "en"
+    enabled: true
+    confidence: "medium"
+    notes: "Japan-based wire service. Exact filename path not 100% confirmed - verify before relying on it."
+
+  - name: "CGTN World"
+    url: "https://www.cgtn.com/subscribe/rss.html"
+    category: "East Asia"
+    language: "en"
+    enabled: false
+    confidence: "medium"
+    notes: >
+      This URL is CGTN's RSS *subscribe page*, not a direct feed - it lists
+      per-section feed links (e.g. cgtn.com/world, cgtn.com/china). Visit the
+      page, grab the actual section feed URL(s) you want, and update this
+      entry (or add one entry per section) before enabling. State-run
+      Chinese media - editorial stance worth being aware of.
+
+  # --- South Asia ---
+  - name: "The Hindu"
+    url: "https://www.thehindu.com/feeder/default.rss"
+    category: "South Asia"
+    language: "en"
+    enabled: true
+    confidence: "high"
+    notes: "India-based English-language daily, founded 1878."
+
+  # --- Southeast Asia ---
+  - name: "Antara News English"
+    url: "https://en.antaranews.com/rss/news.xml"
+    category: "Southeast Asia"
+    language: "en"
+    enabled: true
+    confidence: "medium"
+    notes: "Indonesia's national news agency. Verify exact filename before relying on it."
+
+  - name: "Channel News Asia"
+    url: "https://www.channelnewsasia.com/api/v1/rss/latest-news"
+    category: "Southeast Asia"
+    language: "en"
+    enabled: false
+    confidence: "low"
+    notes: >
+      Singapore-based (Mediacorp). URL pattern inferred from a third-party
+      feed-builder tool listing, not confirmed as a stable public endpoint.
+      Test directly and fix the path before enabling.
+
+  # --- Latin America ---
+  - name: "MercoPress"
+    url: "https://en.mercopress.com/rss"
+    category: "Latin America"
+    language: "en"
+    enabled: true
+    confidence: "high"
+    notes: >
+      Covers Mercosur/South America. Has category-specific feeds too
+      (e.g. /rss/latin-america) - see https://en.mercopress.com/feeds for
+      the full list if you want finer-grained categories later.
+
+  # --- Turkey / MENA ---
+  - name: "Anadolu Agency English"
+    url: "http://www.aa.com.tr/rss/ajansgunceleng.xml"
+    category: "Middle East / Global"
+    language: "en"
+    enabled: false
+    confidence: "low"
+    notes: >
+      Turkey's state-run wire service. This URL was sourced from a
+      2004-dated help page and is likely stale or dead. Find the current
+      English RSS path on aa.com.tr before enabling, or drop this source.
+
+  # --- Russia / Eurasia ---
+  # TASS deliberately excluded: their Terms of Use explicitly prohibit
+  # using their text materials in RSS feeds or redistributing them on
+  # third-party sites/digital resources without written consent from TASS.
+  # See https://tass.com/terms-of-use - do not add tass.com/rss/v2.xml here.
+
+  - name: "RT (Russia Today)"
+    url: "https://www.rt.com/rss/"
+    category: "Russia / Eurasia"
+    language: "en"
+    enabled: false
+    confidence: "medium"
+    notes: >
+      Russian state-funded outlet. Left disabled by default - this is a
+      judgment call for the site owner given the political context around
+      the outlet (e.g. sanctions/bans in some jurisdictions), not a
+      technical limitation. Enable only after you've made that call
+      deliberately.
