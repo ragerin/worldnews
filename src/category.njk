@@ -17,6 +17,16 @@ permalink: "category/{{ categoryName | categorySlug }}/index.html"
   {% if news.generated_at %}&middot; Updated {{ news.generated_at | readableDate }}{% endif %}
 </p>
 
+<div class="topic-filter" role="group" aria-label="Filter by topic">
+  <button data-topic-btn="all" aria-current="true">All</button>
+  <button data-topic-btn="world">World</button>
+  <button data-topic-btn="politics">Politics</button>
+  <button data-topic-btn="business">Business</button>
+  <button data-topic-btn="technology">Technology</button>
+  <button data-topic-btn="science">Science</button>
+  <button data-topic-btn="culture">Culture</button>
+</div>
+
 {% if not articles or articles | length == 0 %}
 <div class="empty">
   <p>No articles found for this category.</p>
@@ -24,7 +34,7 @@ permalink: "category/{{ categoryName | categorySlug }}/index.html"
 {% else %}
 <div class="article-grid">
   {% for article in articles %}
-  <article class="article-card">
+  <article class="article-card" data-topics="{{ (article.topics or ['world']) | join(' ') }}">
     <div class="article-source">{{ article.source }}</div>
     <h2 class="article-title">
       <a href="{{ article.link }}" rel="noopener" target="_blank">{{ article.title }}</a>
@@ -38,7 +48,9 @@ permalink: "category/{{ categoryName | categorySlug }}/index.html"
         {{ article.published | readableDate }}
       </time>
       {% endif %}
-      <span class="tag">{{ article.source }}</span>
+      {% for topic in (article.topics or ['world']) %}
+      <span class="tag">{{ topic }}</span>
+      {% endfor %}
     </div>
   </article>
   {% endfor %}

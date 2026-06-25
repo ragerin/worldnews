@@ -1,134 +1,394 @@
 # feeds.yaml
 #
-# Configuration for the news aggregator. Each entry defines one RSS/Atom/RDF
-# feed to fetch, the category it should be tagged with, and metadata to help
-# with maintenance.
-#
 # Fields:
-#   name        - display name of the source (shown on the site)
-#   url         - the feed URL to fetch
-#   category    - the fixed category this feed's articles are tagged with
-#   language    - ISO 639-1 code, for future filtering (not used yet)
-#   enabled     - true/false - set to false to disable without deleting config
-#   confidence  - "high" / "medium" / "low" - how well-verified this URL is.
-#                 "low" or "medium" entries should be checked manually before
-#                 relying on them; see README.md "Known verification gaps" section.
-#   notes       - any caveats (ToS, attribution requirements, etc.)
+#   name        - display name shown on the site
+#   url         - feed URL to fetch
+#   category    - geographic or topical section (drives nav pages)
+#   topics      - list of topic tags for client-side filtering
+#                 valid values: world, politics, business, technology, science, culture
+#   language    - ISO 639-1 code
+#   enabled     - false to disable without deleting config
+#   confidence  - "high" / "medium" / "low" - how well-verified the URL is
+#   notes       - caveats (ToS, attribution, verification gaps, etc.)
 
 feeds:
 
-  # --- Global / Middle East ---
+  # =========================================================================
+  # GLOBAL WIRE  (outlets with broad worldwide coverage)
+  # =========================================================================
+
+  - name: "BBC World News"
+    url: "https://feeds.bbci.co.uk/news/world/rss.xml"
+    category: "Global Wire"
+    topics: [world, politics]
+    language: "en"
+    enabled: true
+    confidence: "high"
+    notes: "UK public broadcaster. Stable RSS, consistent format."
+
+  - name: "Reuters World"
+    url: "https://feeds.reuters.com/reuters/worldNews"
+    category: "Global Wire"
+    topics: [world, politics, business]
+    language: "en"
+    enabled: true
+    confidence: "medium"
+    notes: "Reuters has changed RSS URLs in the past — re-verify if feed goes silent."
+
   - name: "Al Jazeera English"
     url: "https://www.aljazeera.com/xml/rss/all.xml"
-    category: "Middle East / Global"
+    category: "Global Wire"
+    topics: [world, politics]
     language: "en"
     enabled: true
     confidence: "high"
     notes: "Qatar-based, partially state-funded. Broad global coverage."
 
-  # --- Africa ---
+  - name: "AP News"
+    url: "https://rsshub.app/apnews/topics/apf-topnews"
+    category: "Global Wire"
+    topics: [world, politics]
+    language: "en"
+    enabled: false
+    confidence: "low"
+    notes: >
+      AP does not publish an official RSS feed. This uses rsshub.app as a
+      bridge — reliability depends on that third-party service. Enable only
+      if you're comfortable with that dependency; alternatively find an
+      official AP feed path if one is ever published.
+
+  # =========================================================================
+  # EUROPE
+  # =========================================================================
+
+  - name: "The Guardian World"
+    url: "https://www.theguardian.com/world/rss"
+    category: "Europe"
+    topics: [world, politics, culture]
+    language: "en"
+    enabled: true
+    confidence: "high"
+    notes: "UK-based, independent. Broad international coverage."
+
+  - name: "Deutsche Welle (DW)"
+    url: "https://rss.dw.com/rdf/rss-en-world"
+    category: "Europe"
+    topics: [world, politics]
+    language: "en"
+    enabled: true
+    confidence: "high"
+    notes: "Germany's international public broadcaster."
+
+  - name: "France 24 English"
+    url: "https://www.france24.com/en/rss"
+    category: "Europe"
+    topics: [world, politics]
+    language: "en"
+    enabled: true
+    confidence: "medium"
+    notes: "French state international broadcaster."
+
+  - name: "Euronews"
+    url: "https://www.euronews.com/rss?format=mrss"
+    category: "Europe"
+    topics: [world, politics]
+    language: "en"
+    enabled: true
+    confidence: "medium"
+
+  - name: "Der Spiegel International"
+    url: "https://www.spiegel.de/international/index.rss"
+    category: "Europe"
+    topics: [world, politics, culture]
+    language: "en"
+    enabled: true
+    confidence: "high"
+    notes: "Germany's leading news magazine, English-language international section."
+
+  - name: "Politico Europe"
+    url: "https://www.politico.eu/feed/"
+    category: "Europe"
+    topics: [politics]
+    language: "en"
+    enabled: true
+    confidence: "medium"
+    notes: "Focused on European politics and policy."
+
+  # =========================================================================
+  # NORTH AMERICA
+  # =========================================================================
+
+  - name: "NPR World"
+    url: "https://feeds.npr.org/1004/rss.xml"
+    category: "North America"
+    topics: [world, politics]
+    language: "en"
+    enabled: true
+    confidence: "high"
+    notes: "NPR's international news feed (category 1004 = World)."
+
+  - name: "NPR US Politics"
+    url: "https://feeds.npr.org/1014/rss.xml"
+    category: "North America"
+    topics: [politics]
+    language: "en"
+    enabled: true
+    confidence: "high"
+    notes: "NPR's US politics feed (category 1014)."
+
+  # =========================================================================
+  # AFRICA
+  # =========================================================================
+
   - name: "AllAfrica (continent-wide)"
     url: "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf"
     category: "Africa"
+    topics: [world]
     language: "en"
     enabled: true
     confidence: "high"
     notes: >
-      RDF format (feedparser handles this). REQUIRES attribution: any site
-      displaying these headlines must link back to https://allafrica.com or
-      the specific feed's main page, and credit allAfrica.com. Built into
-      the site footer/template.
+      RDF format. REQUIRES attribution: any site displaying these headlines
+      must link back to https://allafrica.com and credit allAfrica.com.
+      Attribution is built into the site footer.
 
-  # --- East Asia ---
-  - name: "Kyodo News English"
-    url: "https://english.kyodonews.net/rss/all.xml"
+  # =========================================================================
+  # MIDDLE EAST
+  # =========================================================================
+
+  - name: "Anadolu Agency English"
+    url: "http://www.aa.com.tr/rss/ajansgunceleng.xml"
+    category: "Middle East"
+    topics: [world, politics]
+    language: "en"
+    enabled: false
+    confidence: "low"
+    notes: >
+      Turkey's state wire service. URL from a 2004 help page — likely stale.
+      Find the current English RSS path on aa.com.tr before enabling.
+
+  # =========================================================================
+  # EAST ASIA
+  # =========================================================================
+
+  - name: "NHK World"
+    url: "https://www3.nhk.or.jp/rss/news/cat0.xml"
     category: "East Asia"
+    topics: [world, politics]
+    language: "en"
+    enabled: true
+    confidence: "high"
+    notes: "Japan's public broadcaster, English international service."
+
+  - name: "South China Morning Post"
+    url: "https://www.scmp.com/rss/91/feed"
+    category: "East Asia"
+    topics: [world, politics, business]
     language: "en"
     enabled: true
     confidence: "medium"
-    notes: "Japan-based wire service. Exact filename path not 100% confirmed - verify before relying on it."
+    notes: "Hong Kong-based English-language daily. Feed path may change."
+
+  - name: "Kyodo News English"
+    url: "https://english.kyodonews.net/rss/all.xml"
+    category: "East Asia"
+    topics: [world, politics]
+    language: "en"
+    enabled: true
+    confidence: "medium"
+    notes: "Japan-based wire service. Exact filename path not 100% confirmed."
 
   - name: "CGTN World"
     url: "https://www.cgtn.com/subscribe/rss.html"
     category: "East Asia"
+    topics: [world, politics]
     language: "en"
     enabled: false
     confidence: "medium"
     notes: >
-      This URL is CGTN's RSS *subscribe page*, not a direct feed - it lists
-      per-section feed links (e.g. cgtn.com/world, cgtn.com/china). Visit the
-      page, grab the actual section feed URL(s) you want, and update this
-      entry (or add one entry per section) before enabling. State-run
-      Chinese media - editorial stance worth being aware of.
+      This URL is CGTN's RSS subscribe page, not a direct feed. Visit the
+      page, grab the actual section feed URL(s), and update before enabling.
+      State-run Chinese media — editorial stance worth being aware of.
 
-  # --- South Asia ---
+  # =========================================================================
+  # SOUTH ASIA
+  # =========================================================================
+
   - name: "The Hindu"
     url: "https://www.thehindu.com/feeder/default.rss"
     category: "South Asia"
+    topics: [world, politics]
     language: "en"
     enabled: true
     confidence: "high"
     notes: "India-based English-language daily, founded 1878."
 
-  # --- Southeast Asia ---
-  - name: "Antara News English"
-    url: "https://en.antaranews.com/rss/news.xml"
-    category: "Southeast Asia"
+  - name: "Dawn (Pakistan)"
+    url: "https://www.dawn.com/feeds/home"
+    category: "South Asia"
+    topics: [world, politics]
     language: "en"
     enabled: true
     confidence: "medium"
-    notes: "Indonesia's national news agency. Verify exact filename before relying on it."
+    notes: "Pakistan's leading English-language newspaper."
+
+  # =========================================================================
+  # SOUTHEAST ASIA
+  # =========================================================================
+
+  - name: "Antara News English"
+    url: "https://en.antaranews.com/rss/news.xml"
+    category: "Southeast Asia"
+    topics: [world]
+    language: "en"
+    enabled: true
+    confidence: "medium"
+    notes: "Indonesia's national news agency. Verify exact filename."
 
   - name: "Channel News Asia"
     url: "https://www.channelnewsasia.com/api/v1/rss/latest-news"
     category: "Southeast Asia"
+    topics: [world, politics]
     language: "en"
     enabled: false
     confidence: "low"
     notes: >
-      Singapore-based (Mediacorp). URL pattern inferred from a third-party
-      feed-builder tool listing, not confirmed as a stable public endpoint.
-      Test directly and fix the path before enabling.
+      Singapore (Mediacorp). URL inferred from a third-party listing —
+      not confirmed as a stable public endpoint. Test directly before enabling.
 
-  # --- Latin America ---
+  # =========================================================================
+  # LATIN AMERICA
+  # =========================================================================
+
   - name: "MercoPress"
     url: "https://en.mercopress.com/rss"
     category: "Latin America"
+    topics: [world, politics, business]
     language: "en"
     enabled: true
     confidence: "high"
     notes: >
-      Covers Mercosur/South America. Has category-specific feeds too
-      (e.g. /rss/latin-america) - see https://en.mercopress.com/feeds for
-      the full list if you want finer-grained categories later.
+      Covers Mercosur / South America. Category-specific feeds also available
+      at https://en.mercopress.com/feeds.
 
-  # --- Turkey / MENA ---
-  - name: "Anadolu Agency English"
-    url: "http://www.aa.com.tr/rss/ajansgunceleng.xml"
-    category: "Middle East / Global"
-    language: "en"
-    enabled: false
-    confidence: "low"
-    notes: >
-      Turkey's state-run wire service. This URL was sourced from a
-      2004-dated help page and is likely stale or dead. Find the current
-      English RSS path on aa.com.tr before enabling, or drop this source.
-
-  # --- Russia / Eurasia ---
-  # TASS deliberately excluded: their Terms of Use explicitly prohibit
-  # using their text materials in RSS feeds or redistributing them on
-  # third-party sites/digital resources without written consent from TASS.
-  # See https://tass.com/terms-of-use - do not add tass.com/rss/v2.xml here.
+  # =========================================================================
+  # RUSSIA / EURASIA
+  # =========================================================================
+  # TASS deliberately excluded: their Terms of Use explicitly prohibit using
+  # their text materials in RSS feeds or on third-party sites without written
+  # consent. See https://tass.com/terms-of-use.
 
   - name: "RT (Russia Today)"
     url: "https://www.rt.com/rss/"
     category: "Russia / Eurasia"
+    topics: [world, politics]
     language: "en"
     enabled: false
     confidence: "medium"
     notes: >
-      Russian state-funded outlet. Left disabled by default - this is a
-      judgment call for the site owner given the political context around
-      the outlet (e.g. sanctions/bans in some jurisdictions), not a
-      technical limitation. Enable only after you've made that call
-      deliberately.
+      Russian state-funded outlet. Disabled by default — enable only after
+      considering the editorial and jurisdictional context (sanctions/bans
+      in some jurisdictions).
+
+  # =========================================================================
+  # TECHNOLOGY
+  # =========================================================================
+
+  - name: "TechCrunch"
+    url: "https://techcrunch.com/feed/"
+    category: "Technology"
+    topics: [technology, business]
+    language: "en"
+    enabled: true
+    confidence: "high"
+
+  - name: "Ars Technica"
+    url: "https://feeds.arstechnica.com/arstechnica/index/"
+    category: "Technology"
+    topics: [technology, science]
+    language: "en"
+    enabled: true
+    confidence: "high"
+
+  - name: "The Verge"
+    url: "https://www.theverge.com/rss/index.xml"
+    category: "Technology"
+    topics: [technology, culture]
+    language: "en"
+    enabled: true
+    confidence: "high"
+
+  - name: "MIT Technology Review"
+    url: "https://www.technologyreview.com/feed/"
+    category: "Technology"
+    topics: [technology, science]
+    language: "en"
+    enabled: true
+    confidence: "medium"
+
+  - name: "Wired"
+    url: "https://www.wired.com/feed/rss"
+    category: "Technology"
+    topics: [technology, science, culture]
+    language: "en"
+    enabled: true
+    confidence: "medium"
+
+  # =========================================================================
+  # BUSINESS & FINANCE
+  # =========================================================================
+
+  - name: "Reuters Business"
+    url: "https://feeds.reuters.com/reuters/businessNews"
+    category: "Business & Finance"
+    topics: [business]
+    language: "en"
+    enabled: true
+    confidence: "medium"
+    notes: "Reuters has changed RSS URLs in the past — re-verify if it goes silent."
+
+  - name: "The Economist"
+    url: "https://www.economist.com/finance-and-economics/rss.xml"
+    category: "Business & Finance"
+    topics: [business, politics]
+    language: "en"
+    enabled: true
+    confidence: "medium"
+    notes: "Finance & Economics section. Some articles paywalled; headlines/summaries free."
+
+  - name: "MarketWatch"
+    url: "http://feeds.marketwatch.com/marketwatch/topstories/"
+    category: "Business & Finance"
+    topics: [business]
+    language: "en"
+    enabled: true
+    confidence: "medium"
+
+  # =========================================================================
+  # SCIENCE
+  # =========================================================================
+
+  - name: "Scientific American"
+    url: "https://www.scientificamerican.com/feed/"
+    category: "Science"
+    topics: [science]
+    language: "en"
+    enabled: true
+    confidence: "medium"
+
+  - name: "Nature News"
+    url: "https://feeds.nature.com/nature/rss/current"
+    category: "Science"
+    topics: [science]
+    language: "en"
+    enabled: true
+    confidence: "medium"
+    notes: "Nature's current issue RSS. Some articles paywalled; headlines/abstracts free."
+
+  - name: "New Scientist"
+    url: "https://www.newscientist.com/feed/home/"
+    category: "Science"
+    topics: [science, technology]
+    language: "en"
+    enabled: true
+    confidence: "medium"

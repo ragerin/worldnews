@@ -16,6 +16,16 @@ title: "World News - Latest Headlines"
   {% if news.generated_at %}&middot; Updated {{ news.generated_at | readableDate }}{% endif %}
 </p>
 
+<div class="topic-filter" role="group" aria-label="Filter by topic">
+  <button data-topic-btn="all" aria-current="true">All</button>
+  <button data-topic-btn="world">World</button>
+  <button data-topic-btn="politics">Politics</button>
+  <button data-topic-btn="business">Business</button>
+  <button data-topic-btn="technology">Technology</button>
+  <button data-topic-btn="science">Science</button>
+  <button data-topic-btn="culture">Culture</button>
+</div>
+
 {% for cat, articles in news.categories %}
 <section class="category-section" aria-labelledby="cat-{{ cat | categorySlug }}">
   <h2 class="category-heading" id="cat-{{ cat | categorySlug }}">
@@ -24,7 +34,7 @@ title: "World News - Latest Headlines"
   </h2>
   <div class="article-grid">
     {% for article in articles | limit(6) %}
-    <article class="article-card">
+    <article class="article-card" data-topics="{{ (article.topics or ['world']) | join(' ') }}">
       <div class="article-source">{{ article.source }}</div>
       <h3 class="article-title">
         <a href="{{ article.link }}" rel="noopener" target="_blank">{{ article.title }}</a>
@@ -38,6 +48,9 @@ title: "World News - Latest Headlines"
           {{ article.published | readableDate }}
         </time>
         {% endif %}
+        {% for topic in (article.topics or ['world']) %}
+        <span class="tag">{{ topic }}</span>
+        {% endfor %}
       </div>
     </article>
     {% endfor %}

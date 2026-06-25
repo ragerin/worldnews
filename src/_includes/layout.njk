@@ -208,6 +208,35 @@
     .site-footer a { color: var(--muted); text-decoration: underline; }
     .site-footer a:hover { color: var(--text); }
 
+    /* ---- Topic filter bar ---- */
+    .topic-filter {
+      display: flex;
+      gap: 0.4rem;
+      flex-wrap: wrap;
+      margin-bottom: 1.5rem;
+    }
+    .topic-filter button {
+      font-size: 0.78rem;
+      font-weight: 600;
+      padding: 0.3rem 0.75rem;
+      border-radius: 20px;
+      border: 1px solid var(--border);
+      background: transparent;
+      color: var(--muted);
+      cursor: pointer;
+      white-space: nowrap;
+      transition: color 0.1s, background 0.1s, border-color 0.1s;
+    }
+    .topic-filter button:hover {
+      color: var(--text);
+      border-color: var(--accent-dim);
+    }
+    .topic-filter button[aria-current="true"] {
+      background: var(--accent-dim);
+      border-color: var(--accent);
+      color: var(--text);
+    }
+
     @media (max-width: 600px) {
       .article-grid { grid-template-columns: 1fr; }
     }
@@ -251,5 +280,32 @@
   </div>
 </footer>
 
+<script>
+(function () {
+  var active = "all";
+
+  function applyFilter(topic) {
+    active = topic;
+    document.querySelectorAll("[data-topic-btn]").forEach(function (btn) {
+      btn.setAttribute("aria-current", btn.dataset.topicBtn === topic ? "true" : "false");
+    });
+    document.querySelectorAll(".article-card").forEach(function (card) {
+      var topics = (card.dataset.topics || "").split(" ");
+      var show = topic === "all" || topics.indexOf(topic) !== -1;
+      card.style.display = show ? "" : "none";
+    });
+    document.querySelectorAll(".category-section").forEach(function (section) {
+      var visible = section.querySelectorAll(".article-card:not([style*='display: none'])").length;
+      section.style.display = visible ? "" : "none";
+    });
+  }
+
+  document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll("[data-topic-btn]").forEach(function (btn) {
+      btn.addEventListener("click", function () { applyFilter(btn.dataset.topicBtn); });
+    });
+  });
+})();
+</script>
 </body>
 </html>

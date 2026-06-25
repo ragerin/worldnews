@@ -2,9 +2,9 @@
 
 **Live site: https://ragerin.github.io/worldnews/**
 
-A static news site that pulls headlines from curated global RSS feeds, with an
-emphasis on non-Western-centric sources. Rebuilt daily via GitHub Actions and
-served free on GitHub Pages. No backend, no database, no paid services.
+A static news site that pulls headlines from curated global RSS feeds, spanning
+all regions with balanced coverage across East, West, and the Global South.
+Rebuilt daily via GitHub Actions and served on GitHub Pages. No backend, no database.
 
 ## How it works
 
