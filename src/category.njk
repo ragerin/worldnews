@@ -34,7 +34,7 @@ permalink: "category/{{ categoryName | categorySlug }}/index.html"
 {% else %}
 <div class="article-grid">
   {% for article in articles %}
-  <article class="article-card" data-topics="{{ (article.topics or ['world']) | join(' ') }}">
+  <article class="article-card" data-topics="{{ (article.topics or ['world']) | join(' ') }}" lang="{{ article.language or 'en' }}">
     <div class="article-source">{{ article.source }}</div>
     <h2 class="article-title">
       <a href="{{ article.link }}" rel="noopener" target="_blank">{{ article.title }}</a>
