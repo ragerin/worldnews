@@ -237,6 +237,25 @@
       color: var(--text);
     }
 
+    /* ---- Google Translate widget overrides ---- */
+    #google_translate_element { display: flex; align-items: center; }
+    .goog-te-gadget { font-size: 0 !important; }
+    .goog-te-gadget select {
+      font-size: 0.78rem;
+      background: var(--surface);
+      color: var(--muted);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 0.2rem 0.4rem;
+      cursor: pointer;
+      outline: none;
+    }
+    .goog-te-gadget select:hover { color: var(--text); border-color: var(--accent-dim); }
+    .goog-logo-link, .goog-te-gadget > span { display: none !important; }
+    /* Hide the top-of-page banner Google injects */
+    .goog-te-banner-frame { display: none !important; }
+    body { top: 0 !important; }
+
     @media (max-width: 600px) {
       .article-grid { grid-template-columns: 1fr; }
     }
@@ -256,6 +275,7 @@
         </a>
       {% endfor %}
     </nav>
+    <div id="google_translate_element"></div>
   </div>
 </header>
 
@@ -279,6 +299,16 @@
     {% endif %}
   </div>
 </footer>
+
+<script>
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement(
+    { pageLanguage: "en", layout: google.translate.TranslateElement.InlineLayout.SIMPLE },
+    "google_translate_element"
+  );
+}
+</script>
+<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" async></script>
 
 <script>
 (function () {
