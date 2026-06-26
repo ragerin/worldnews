@@ -178,6 +178,7 @@ def parse_rss2(root: ET.Element, feed_meta: dict, cutoff: datetime) -> list[dict
             "source": feed_meta["name"],
             "category": feed_meta["category"],
             "topics": feed_meta.get("topics", ["world"]),
+            "language": feed_meta.get("language", "en"),
             "published": pub_dt.isoformat() if pub_dt else None,
             "summary": truncate(summary_raw),
         })
@@ -206,6 +207,7 @@ def parse_atom(root: ET.Element, feed_meta: dict, cutoff: datetime) -> list[dict
             "source": feed_meta["name"],
             "category": feed_meta["category"],
             "topics": feed_meta.get("topics", ["world"]),
+            "language": feed_meta.get("language", "en"),
             "published": pub_dt.isoformat() if pub_dt else None,
             "summary": truncate(summary_raw),
         })
@@ -236,6 +238,7 @@ def parse_rdf(root: ET.Element, feed_meta: dict, cutoff: datetime) -> list[dict]
             "source": feed_meta["name"],
             "category": feed_meta["category"],
             "topics": feed_meta.get("topics", ["world"]),
+            "language": feed_meta.get("language", "en"),
             "published": pub_dt.isoformat() if pub_dt else None,
             "summary": truncate(summary_raw),
         })
