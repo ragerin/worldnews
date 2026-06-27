@@ -42,11 +42,11 @@ jobs:
       - name: Install Python dependencies
         run: pip install -r requirements.txt
 
+      - name: Sync with latest main before fetching news
+        run: git pull --rebase origin main
+
       - name: Fetch news feeds
         run: python scripts/fetch_news.py
-
-      - name: Rebase on latest main before committing data
-        run: git pull --rebase origin main
 
       - name: Commit updated data (if changed)
         uses: stefanzweifel/git-auto-commit-action@v5
