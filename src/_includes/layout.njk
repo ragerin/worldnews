@@ -238,7 +238,7 @@
     }
 
     /* ---- Google Translate widget overrides ---- */
-    #google_translate_element { display: flex; align-items: center; }
+    #google_translate_element { display: flex; align-items: center; flex-shrink: 0; }
     .goog-te-gadget { font-size: 0 !important; }
     .goog-te-gadget select {
       font-size: 0.78rem;
@@ -249,6 +249,7 @@
       padding: 0.2rem 0.4rem;
       cursor: pointer;
       outline: none;
+      max-width: 160px;
     }
     .goog-te-gadget select:hover { color: var(--text); border-color: var(--accent-dim); }
     .goog-logo-link, .goog-te-gadget > span { display: none !important; }
@@ -258,6 +259,10 @@
 
     @media (max-width: 600px) {
       .article-grid { grid-template-columns: 1fr; }
+      /* Move translate widget below the nav, full width, easy to tap */
+      #google_translate_element { order: 10; width: 100%; margin-top: 0.25rem; }
+      .goog-te-gadget { width: 100%; }
+      .goog-te-gadget select { width: 100%; max-width: 100%; }
     }
   </style>
 </head>
