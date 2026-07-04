@@ -3,54 +3,54 @@
     "name": "Reuters World",
     "url": "https://feeds.reuters.com/reuters/worldNews",
     "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-07-04T08:35:44.467913+00:00"
+    "timestamp": "2026-07-04T09:00:28.577881+00:00"
   },
   {
     "name": "Deutsche Welle (DW)",
     "url": "https://rss.dw.com/rdf/rss-en-world",
     "error": "prefix 'rss' not found in prefix map",
-    "timestamp": "2026-07-04T08:35:44.922945+00:00"
+    "timestamp": "2026-07-04T09:00:29.618334+00:00"
   },
   {
     "name": "France 24 English",
     "url": "https://www.france24.com/en/rss",
     "error": "prefix 'content' not found in prefix map",
-    "timestamp": "2026-07-04T08:35:45.047993+00:00"
-  },
-  {
-    "name": "Euronews",
-    "url": "https://www.euronews.com/rss?format=mrss",
-    "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-07-04T08:35:45.424639+00:00"
+    "timestamp": "2026-07-04T09:00:29.937804+00:00"
   },
   {
     "name": "Kyodo News English",
     "url": "https://english.kyodonews.net/rss/all.xml",
     "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-07-04T08:35:53.579168+00:00"
+    "timestamp": "2026-07-04T09:00:38.736617+00:00"
   },
   {
     "name": "The Hindu",
     "url": "https://www.thehindu.com/feeder/default.rss",
     "error": "prefix 'content' not found in prefix map",
-    "timestamp": "2026-07-04T08:35:53.717182+00:00"
+    "timestamp": "2026-07-04T09:00:38.974358+00:00"
   },
   {
     "name": "The Verge",
     "url": "https://www.theverge.com/rss/index.xml",
     "error": "prefix 'a' not found in prefix map",
-    "timestamp": "2026-07-04T08:35:56.093861+00:00"
+    "timestamp": "2026-07-04T09:00:41.712845+00:00"
   },
   {
     "name": "Reuters Business",
     "url": "https://feeds.reuters.com/reuters/businessNews",
     "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-07-04T08:35:56.892482+00:00"
+    "timestamp": "2026-07-04T09:00:42.556283+00:00"
+  },
+  {
+    "name": "Scientific American",
+    "url": "https://www.scientificamerican.com/feed/",
+    "error": "Could not resolve a valid feed URL after fallbacks",
+    "timestamp": "2026-07-04T09:00:44.224492+00:00"
   },
   {
     "name": "Nature News",
     "url": "https://feeds.nature.com/nature/rss/current",
     "error": "prefix 'rss' not found in prefix map",
-    "timestamp": "2026-07-04T08:35:58.249403+00:00"
+    "timestamp": "2026-07-04T09:00:44.762788+00:00"
   }
 ]
