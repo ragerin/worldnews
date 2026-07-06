@@ -79,3 +79,15 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        continue-on-error: true
+
+      - name: Wait before retrying failed deployment
+        if: steps.deployment.outcome == 'failure'
+        run: |
+          echo "First deployment failed, waiting 30 s before retry..."
+          sleep 30
+
+      - name: Deploy to GitHub Pages (retry)
+        id: deployment_retry
+        if: steps.deployment.outcome == 'failure'
+        uses: actions/deploy-pages@v4
