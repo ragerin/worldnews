@@ -3,48 +3,42 @@
     "name": "Reuters World",
     "url": "https://feeds.reuters.com/reuters/worldNews",
     "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-08-08T06:51:18.846538+00:00"
+    "timestamp": "2026-08-09T06:54:43.987243+00:00"
   },
   {
     "name": "Deutsche Welle (DW)",
     "url": "https://rss.dw.com/rdf/rss-en-world",
     "error": "prefix 'rss' not found in prefix map",
-    "timestamp": "2026-08-08T06:51:20.488998+00:00"
-  },
-  {
-    "name": "France 24 English",
-    "url": "https://www.france24.com/en/rss",
-    "error": "prefix 'content' not found in prefix map",
-    "timestamp": "2026-08-08T06:51:20.736040+00:00"
+    "timestamp": "2026-08-09T06:54:44.848219+00:00"
   },
   {
     "name": "Kyodo News English",
     "url": "https://english.kyodonews.net/rss/all.xml",
     "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-08-08T06:51:32.648543+00:00"
+    "timestamp": "2026-08-09T06:54:52.773283+00:00"
   },
   {
     "name": "The Hindu",
     "url": "https://www.thehindu.com/feeder/default.rss",
     "error": "prefix 'content' not found in prefix map",
-    "timestamp": "2026-08-08T06:51:33.744813+00:00"
+    "timestamp": "2026-08-09T06:54:53.101046+00:00"
   },
   {
     "name": "The Verge",
     "url": "https://www.theverge.com/rss/index.xml",
     "error": "prefix 'a' not found in prefix map",
-    "timestamp": "2026-08-08T06:51:37.945886+00:00"
+    "timestamp": "2026-08-09T06:54:55.580582+00:00"
   },
   {
     "name": "Reuters Business",
     "url": "https://feeds.reuters.com/reuters/businessNews",
     "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-08-08T06:51:39.450506+00:00"
+    "timestamp": "2026-08-09T06:54:56.601198+00:00"
   },
   {
     "name": "Nature News",
     "url": "https://feeds.nature.com/nature/rss/current",
     "error": "prefix 'rss' not found in prefix map",
-    "timestamp": "2026-08-08T06:51:43.615865+00:00"
+    "timestamp": "2026-08-09T06:54:59.879654+00:00"
   }
 ]
