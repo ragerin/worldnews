@@ -3,42 +3,42 @@
     "name": "Reuters World",
     "url": "https://feeds.reuters.com/reuters/worldNews",
     "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-08-23T06:38:33.341705+00:00"
+    "timestamp": "2026-08-24T06:55:46.517840+00:00"
   },
   {
     "name": "Deutsche Welle (DW)",
     "url": "https://rss.dw.com/rdf/rss-en-world",
     "error": "prefix 'rss' not found in prefix map",
-    "timestamp": "2026-08-23T06:38:33.801490+00:00"
+    "timestamp": "2026-08-24T06:55:47.198459+00:00"
   },
   {
     "name": "Kyodo News English",
     "url": "https://english.kyodonews.net/rss/all.xml",
     "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-08-23T06:38:40.836745+00:00"
+    "timestamp": "2026-08-24T06:55:56.273264+00:00"
   },
   {
     "name": "The Hindu",
     "url": "https://www.thehindu.com/feeder/default.rss",
     "error": "prefix 'content' not found in prefix map",
-    "timestamp": "2026-08-23T06:38:41.208311+00:00"
+    "timestamp": "2026-08-24T06:55:56.713148+00:00"
   },
   {
     "name": "The Verge",
     "url": "https://www.theverge.com/rss/index.xml",
     "error": "prefix 'a' not found in prefix map",
-    "timestamp": "2026-08-23T06:38:43.618523+00:00"
+    "timestamp": "2026-08-24T06:55:59.223228+00:00"
   },
   {
     "name": "Reuters Business",
     "url": "https://feeds.reuters.com/reuters/businessNews",
     "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-08-23T06:38:44.451483+00:00"
+    "timestamp": "2026-08-24T06:55:59.574895+00:00"
   },
   {
     "name": "Nature News",
     "url": "https://feeds.nature.com/nature/rss/current",
     "error": "prefix 'rss' not found in prefix map",
-    "timestamp": "2026-08-23T06:38:47.264444+00:00"
+    "timestamp": "2026-08-24T06:56:02.911079+00:00"
   }
 ]
