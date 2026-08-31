@@ -3,48 +3,42 @@
     "name": "Reuters World",
     "url": "https://feeds.reuters.com/reuters/worldNews",
     "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-08-30T11:19:29.022220+00:00"
+    "timestamp": "2026-08-31T12:47:38.417183+00:00"
   },
   {
     "name": "Deutsche Welle (DW)",
     "url": "https://rss.dw.com/rdf/rss-en-world",
     "error": "prefix 'rss' not found in prefix map",
-    "timestamp": "2026-08-30T11:19:30.015475+00:00"
-  },
-  {
-    "name": "France 24 English",
-    "url": "https://www.france24.com/en/rss",
-    "error": "prefix 'content' not found in prefix map",
-    "timestamp": "2026-08-30T11:19:30.108904+00:00"
+    "timestamp": "2026-08-31T12:47:38.738791+00:00"
   },
   {
     "name": "Kyodo News English",
     "url": "https://english.kyodonews.net/rss/all.xml",
     "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-08-30T11:19:37.125844+00:00"
+    "timestamp": "2026-08-31T12:47:45.510840+00:00"
   },
   {
     "name": "The Hindu",
     "url": "https://www.thehindu.com/feeder/default.rss",
     "error": "prefix 'content' not found in prefix map",
-    "timestamp": "2026-08-30T11:19:37.186215+00:00"
+    "timestamp": "2026-08-31T12:47:45.595782+00:00"
   },
   {
     "name": "The Verge",
     "url": "https://www.theverge.com/rss/index.xml",
     "error": "prefix 'a' not found in prefix map",
-    "timestamp": "2026-08-30T11:19:39.407721+00:00"
+    "timestamp": "2026-08-31T12:47:47.539267+00:00"
   },
   {
     "name": "Reuters Business",
     "url": "https://feeds.reuters.com/reuters/businessNews",
     "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-08-30T11:19:39.850400+00:00"
+    "timestamp": "2026-08-31T12:47:47.912894+00:00"
   },
   {
     "name": "Nature News",
     "url": "https://feeds.nature.com/nature/rss/current",
     "error": "prefix 'rss' not found in prefix map",
-    "timestamp": "2026-08-30T11:19:41.986652+00:00"
+    "timestamp": "2026-08-31T12:47:52.009248+00:00"
   }
 ]
