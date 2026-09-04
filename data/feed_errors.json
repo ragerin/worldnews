@@ -3,48 +3,42 @@
     "name": "Reuters World",
     "url": "https://feeds.reuters.com/reuters/worldNews",
     "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-09-03T10:43:42.550263+00:00"
+    "timestamp": "2026-09-04T10:39:41.659799+00:00"
   },
   {
     "name": "Deutsche Welle (DW)",
     "url": "https://rss.dw.com/rdf/rss-en-world",
     "error": "prefix 'rss' not found in prefix map",
-    "timestamp": "2026-09-03T10:43:43.292708+00:00"
-  },
-  {
-    "name": "France 24 English",
-    "url": "https://www.france24.com/en/rss",
-    "error": "prefix 'content' not found in prefix map",
-    "timestamp": "2026-09-03T10:43:43.506734+00:00"
+    "timestamp": "2026-09-04T10:39:42.940336+00:00"
   },
   {
     "name": "Kyodo News English",
     "url": "https://english.kyodonews.net/rss/all.xml",
     "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-09-03T10:43:53.066122+00:00"
+    "timestamp": "2026-09-04T10:39:53.997593+00:00"
   },
   {
     "name": "The Hindu",
     "url": "https://www.thehindu.com/feeder/default.rss",
     "error": "prefix 'content' not found in prefix map",
-    "timestamp": "2026-09-03T10:43:53.553971+00:00"
+    "timestamp": "2026-09-04T10:39:54.517084+00:00"
   },
   {
     "name": "The Verge",
     "url": "https://www.theverge.com/rss/index.xml",
     "error": "prefix 'a' not found in prefix map",
-    "timestamp": "2026-09-03T10:43:56.226834+00:00"
+    "timestamp": "2026-09-04T10:39:57.283520+00:00"
   },
   {
     "name": "Reuters Business",
     "url": "https://feeds.reuters.com/reuters/businessNews",
     "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-09-03T10:43:56.800475+00:00"
+    "timestamp": "2026-09-04T10:39:58.329769+00:00"
   },
   {
     "name": "Nature News",
     "url": "https://feeds.nature.com/nature/rss/current",
     "error": "prefix 'rss' not found in prefix map",
-    "timestamp": "2026-09-03T10:44:00.077398+00:00"
+    "timestamp": "2026-09-04T10:40:02.818707+00:00"
   }
 ]
