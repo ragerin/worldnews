@@ -3,48 +3,54 @@
     "name": "Reuters World",
     "url": "https://feeds.reuters.com/reuters/worldNews",
     "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-09-05T09:59:59.684181+00:00"
+    "timestamp": "2026-09-06T10:19:14.546349+00:00"
   },
   {
     "name": "Deutsche Welle (DW)",
     "url": "https://rss.dw.com/rdf/rss-en-world",
     "error": "prefix 'rss' not found in prefix map",
-    "timestamp": "2026-09-05T10:00:00.375635+00:00"
+    "timestamp": "2026-09-06T10:19:15.701731+00:00"
   },
   {
-    "name": "France 24 English",
-    "url": "https://www.france24.com/en/rss",
+    "name": "Politico Europe",
+    "url": "https://www.politico.eu/feed/",
     "error": "prefix 'content' not found in prefix map",
-    "timestamp": "2026-09-05T10:00:00.562272+00:00"
+    "timestamp": "2026-09-06T10:19:17.294787+00:00"
+  },
+  {
+    "name": "NPR World",
+    "url": "https://feeds.npr.org/1004/rss.xml",
+    "error": "prefix 'content' not found in prefix map",
+    "timestamp": "2026-09-06T10:19:17.672278+00:00"
   },
   {
     "name": "Kyodo News English",
     "url": "https://english.kyodonews.net/rss/all.xml",
     "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-09-05T10:00:12.920719+00:00"
+    "timestamp": "2026-09-06T10:19:25.332934+00:00"
   },
   {
     "name": "The Hindu",
     "url": "https://www.thehindu.com/feeder/default.rss",
     "error": "prefix 'content' not found in prefix map",
-    "timestamp": "2026-09-05T10:00:13.087429+00:00"
+    "timestamp": "2026-09-06T10:19:25.540658+00:00"
   },
   {
     "name": "The Verge",
     "url": "https://www.theverge.com/rss/index.xml",
     "error": "prefix 'a' not found in prefix map",
-    "timestamp": "2026-09-05T10:00:15.370559+00:00"
+    "timestamp": "2026-09-06T10:19:28.459137+00:00"
   },
   {
     "name": "Reuters Business",
     "url": "https://feeds.reuters.com/reuters/businessNews",
     "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-09-05T10:00:15.948490+00:00"
+    "timestamp": "2026-09-06T10:19:29.460894+00:00"
   },
   {
     "name": "Nature News",
     "url": "https://feeds.nature.com/nature/rss/current",
     "error": "prefix 'rss' not found in prefix map",
-    "timestamp": "2026-09-05T10:00:18.360237+00:00"
+    "timestamp": "2026-09-06T10:19:32.812756+00:00"
   }
 ]
