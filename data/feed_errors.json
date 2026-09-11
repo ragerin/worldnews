@@ -3,48 +3,48 @@
     "name": "Reuters World",
     "url": "https://feeds.reuters.com/reuters/worldNews",
     "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-09-10T10:41:21.529390+00:00"
+    "timestamp": "2026-09-11T10:40:04.797048+00:00"
   },
   {
     "name": "Deutsche Welle (DW)",
     "url": "https://rss.dw.com/rdf/rss-en-world",
     "error": "prefix 'rss' not found in prefix map",
-    "timestamp": "2026-09-10T10:41:22.609159+00:00"
+    "timestamp": "2026-09-11T10:40:04.995783+00:00"
   },
   {
     "name": "France 24 English",
     "url": "https://www.france24.com/en/rss",
     "error": "prefix 'content' not found in prefix map",
-    "timestamp": "2026-09-10T10:41:22.829335+00:00"
+    "timestamp": "2026-09-11T10:40:05.103335+00:00"
   },
   {
     "name": "Kyodo News English",
     "url": "https://english.kyodonews.net/rss/all.xml",
     "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-09-10T10:41:30.759411+00:00"
+    "timestamp": "2026-09-11T10:40:11.517675+00:00"
   },
   {
     "name": "The Hindu",
     "url": "https://www.thehindu.com/feeder/default.rss",
     "error": "prefix 'content' not found in prefix map",
-    "timestamp": "2026-09-10T10:41:30.889513+00:00"
+    "timestamp": "2026-09-11T10:40:11.631651+00:00"
   },
   {
     "name": "The Verge",
     "url": "https://www.theverge.com/rss/index.xml",
     "error": "prefix 'a' not found in prefix map",
-    "timestamp": "2026-09-10T10:41:33.402152+00:00"
+    "timestamp": "2026-09-11T10:40:13.400697+00:00"
   },
   {
     "name": "Reuters Business",
     "url": "https://feeds.reuters.com/reuters/businessNews",
     "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-09-10T10:41:34.289175+00:00"
+    "timestamp": "2026-09-11T10:40:13.688371+00:00"
   },
   {
     "name": "Nature News",
     "url": "https://feeds.nature.com/nature/rss/current",
     "error": "prefix 'rss' not found in prefix map",
-    "timestamp": "2026-09-10T10:41:37.017098+00:00"
+    "timestamp": "2026-09-11T10:40:19.195047+00:00"
   }
 ]
