@@ -3,48 +3,42 @@
     "name": "Reuters World",
     "url": "https://feeds.reuters.com/reuters/worldNews",
     "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-09-20T10:41:34.368515+00:00"
+    "timestamp": "2026-09-21T12:05:01.081829+00:00"
   },
   {
     "name": "Deutsche Welle (DW)",
     "url": "https://rss.dw.com/rdf/rss-en-world",
     "error": "prefix 'rss' not found in prefix map",
-    "timestamp": "2026-09-20T10:41:35.188241+00:00"
-  },
-  {
-    "name": "France 24 English",
-    "url": "https://www.france24.com/en/rss",
-    "error": "prefix 'content' not found in prefix map",
-    "timestamp": "2026-09-20T10:41:35.467509+00:00"
+    "timestamp": "2026-09-21T12:05:02.246674+00:00"
   },
   {
     "name": "Kyodo News English",
     "url": "https://english.kyodonews.net/rss/all.xml",
     "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-09-20T10:41:44.763609+00:00"
+    "timestamp": "2026-09-21T12:05:10.783264+00:00"
   },
   {
     "name": "The Hindu",
     "url": "https://www.thehindu.com/feeder/default.rss",
     "error": "prefix 'content' not found in prefix map",
-    "timestamp": "2026-09-20T10:41:44.849689+00:00"
+    "timestamp": "2026-09-21T12:05:10.983440+00:00"
   },
   {
     "name": "The Verge",
     "url": "https://www.theverge.com/rss/index.xml",
     "error": "prefix 'a' not found in prefix map",
-    "timestamp": "2026-09-20T10:41:47.328992+00:00"
+    "timestamp": "2026-09-21T12:05:13.454148+00:00"
   },
   {
     "name": "Reuters Business",
     "url": "https://feeds.reuters.com/reuters/businessNews",
     "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-09-20T10:41:48.145688+00:00"
+    "timestamp": "2026-09-21T12:05:13.985778+00:00"
   },
   {
     "name": "Nature News",
     "url": "https://feeds.nature.com/nature/rss/current",
     "error": "prefix 'rss' not found in prefix map",
-    "timestamp": "2026-09-20T10:41:50.762347+00:00"
+    "timestamp": "2026-09-21T12:05:17.057602+00:00"
   }
 ]
