@@ -3,42 +3,48 @@
     "name": "Reuters World",
     "url": "https://feeds.reuters.com/reuters/worldNews",
     "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-09-21T12:05:01.081829+00:00"
+    "timestamp": "2026-09-22T11:00:45.523014+00:00"
   },
   {
     "name": "Deutsche Welle (DW)",
     "url": "https://rss.dw.com/rdf/rss-en-world",
     "error": "prefix 'rss' not found in prefix map",
-    "timestamp": "2026-09-21T12:05:02.246674+00:00"
+    "timestamp": "2026-09-22T11:00:45.969689+00:00"
+  },
+  {
+    "name": "South China Morning Post",
+    "url": "https://www.scmp.com/rss/91/feed",
+    "error": "prefix 'content' not found in prefix map",
+    "timestamp": "2026-09-22T11:00:49.672527+00:00"
   },
   {
     "name": "Kyodo News English",
     "url": "https://english.kyodonews.net/rss/all.xml",
     "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-09-21T12:05:10.783264+00:00"
+    "timestamp": "2026-09-22T11:00:54.877417+00:00"
   },
   {
     "name": "The Hindu",
     "url": "https://www.thehindu.com/feeder/default.rss",
     "error": "prefix 'content' not found in prefix map",
-    "timestamp": "2026-09-21T12:05:10.983440+00:00"
+    "timestamp": "2026-09-22T11:00:55.059100+00:00"
   },
   {
     "name": "The Verge",
     "url": "https://www.theverge.com/rss/index.xml",
     "error": "prefix 'a' not found in prefix map",
-    "timestamp": "2026-09-21T12:05:13.454148+00:00"
+    "timestamp": "2026-09-22T11:00:57.460795+00:00"
   },
   {
     "name": "Reuters Business",
     "url": "https://feeds.reuters.com/reuters/businessNews",
     "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-09-21T12:05:13.985778+00:00"
+    "timestamp": "2026-09-22T11:00:58.142510+00:00"
   },
   {
     "name": "Nature News",
     "url": "https://feeds.nature.com/nature/rss/current",
     "error": "prefix 'rss' not found in prefix map",
-    "timestamp": "2026-09-21T12:05:17.057602+00:00"
+    "timestamp": "2026-09-22T11:01:00.189606+00:00"
   }
 ]
