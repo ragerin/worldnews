@@ -3,48 +3,42 @@
     "name": "Reuters World",
     "url": "https://feeds.reuters.com/reuters/worldNews",
     "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-11-05T14:01:36.302509+00:00"
+    "timestamp": "2026-11-06T13:46:45.430330+00:00"
   },
   {
     "name": "Deutsche Welle (DW)",
     "url": "https://rss.dw.com/rdf/rss-en-world",
     "error": "prefix 'rss' not found in prefix map",
-    "timestamp": "2026-11-05T14:01:37.062328+00:00"
-  },
-  {
-    "name": "France 24 English",
-    "url": "https://www.france24.com/en/rss",
-    "error": "prefix 'content' not found in prefix map",
-    "timestamp": "2026-11-05T14:01:37.229216+00:00"
+    "timestamp": "2026-11-06T13:46:45.756305+00:00"
   },
   {
     "name": "Kyodo News English",
     "url": "https://english.kyodonews.net/rss/all.xml",
     "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-11-05T14:01:44.947206+00:00"
+    "timestamp": "2026-11-06T13:46:53.743560+00:00"
   },
   {
     "name": "The Hindu",
     "url": "https://www.thehindu.com/feeder/default.rss",
     "error": "prefix 'content' not found in prefix map",
-    "timestamp": "2026-11-05T14:01:45.101190+00:00"
+    "timestamp": "2026-11-06T13:46:54.151809+00:00"
   },
   {
     "name": "The Verge",
     "url": "https://www.theverge.com/rss/index.xml",
     "error": "prefix 'a' not found in prefix map",
-    "timestamp": "2026-11-05T14:01:48.095513+00:00"
+    "timestamp": "2026-11-06T13:46:56.494444+00:00"
   },
   {
     "name": "Reuters Business",
     "url": "https://feeds.reuters.com/reuters/businessNews",
     "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-11-05T14:01:48.695057+00:00"
+    "timestamp": "2026-11-06T13:46:57.343396+00:00"
   },
   {
     "name": "Nature News",
     "url": "https://feeds.nature.com/nature/rss/current",
     "error": "prefix 'rss' not found in prefix map",
-    "timestamp": "2026-11-05T14:01:51.123991+00:00"
+    "timestamp": "2026-11-06T13:47:00.878918+00:00"
   }
 ]
