@@ -3,48 +3,42 @@
     "name": "Reuters World",
     "url": "https://feeds.reuters.com/reuters/worldNews",
     "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-11-20T14:55:50.811026+00:00"
+    "timestamp": "2026-11-21T14:15:49.024243+00:00"
   },
   {
     "name": "Deutsche Welle (DW)",
     "url": "https://rss.dw.com/rdf/rss-en-world",
     "error": "prefix 'rss' not found in prefix map",
-    "timestamp": "2026-11-20T14:55:51.880746+00:00"
-  },
-  {
-    "name": "France 24 English",
-    "url": "https://www.france24.com/en/rss",
-    "error": "prefix 'content' not found in prefix map",
-    "timestamp": "2026-11-20T14:55:52.049325+00:00"
+    "timestamp": "2026-11-21T14:15:49.474411+00:00"
   },
   {
     "name": "Kyodo News English",
     "url": "https://english.kyodonews.net/rss/all.xml",
     "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-11-20T14:56:00.959651+00:00"
+    "timestamp": "2026-11-21T14:15:57.172779+00:00"
   },
   {
     "name": "The Hindu",
     "url": "https://www.thehindu.com/feeder/default.rss",
     "error": "prefix 'content' not found in prefix map",
-    "timestamp": "2026-11-20T14:56:01.144349+00:00"
+    "timestamp": "2026-11-21T14:15:57.585206+00:00"
   },
   {
     "name": "The Verge",
     "url": "https://www.theverge.com/rss/index.xml",
     "error": "prefix 'a' not found in prefix map",
-    "timestamp": "2026-11-20T14:56:03.953086+00:00"
+    "timestamp": "2026-11-21T14:15:59.821525+00:00"
   },
   {
     "name": "Reuters Business",
     "url": "https://feeds.reuters.com/reuters/businessNews",
     "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-11-20T14:56:04.556145+00:00"
+    "timestamp": "2026-11-21T14:16:00.504733+00:00"
   },
   {
     "name": "Nature News",
     "url": "https://feeds.nature.com/nature/rss/current",
     "error": "prefix 'rss' not found in prefix map",
-    "timestamp": "2026-11-20T14:56:07.374601+00:00"
+    "timestamp": "2026-11-21T14:16:03.445967+00:00"
   }
 ]
