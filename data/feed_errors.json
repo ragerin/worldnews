@@ -3,48 +3,48 @@
     "name": "Reuters World",
     "url": "https://feeds.reuters.com/reuters/worldNews",
     "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-11-24T16:59:51.577580+00:00"
+    "timestamp": "2026-11-25T16:50:28.580984+00:00"
   },
   {
     "name": "Deutsche Welle (DW)",
     "url": "https://rss.dw.com/rdf/rss-en-world",
     "error": "prefix 'rss' not found in prefix map",
-    "timestamp": "2026-11-24T16:59:52.244668+00:00"
+    "timestamp": "2026-11-25T16:50:29.101160+00:00"
   },
   {
-    "name": "France 24 English",
-    "url": "https://www.france24.com/en/rss",
+    "name": "South China Morning Post",
+    "url": "https://www.scmp.com/rss/91/feed",
     "error": "prefix 'content' not found in prefix map",
-    "timestamp": "2026-11-24T16:59:52.432511+00:00"
+    "timestamp": "2026-11-25T16:50:32.699393+00:00"
   },
   {
     "name": "Kyodo News English",
     "url": "https://english.kyodonews.net/rss/all.xml",
     "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-11-24T17:00:00.782921+00:00"
+    "timestamp": "2026-11-25T16:50:37.820944+00:00"
   },
   {
     "name": "The Hindu",
     "url": "https://www.thehindu.com/feeder/default.rss",
     "error": "prefix 'content' not found in prefix map",
-    "timestamp": "2026-11-24T17:00:00.862850+00:00"
+    "timestamp": "2026-11-25T16:50:37.923464+00:00"
   },
   {
     "name": "The Verge",
     "url": "https://www.theverge.com/rss/index.xml",
     "error": "prefix 'a' not found in prefix map",
-    "timestamp": "2026-11-24T17:00:03.782636+00:00"
+    "timestamp": "2026-11-25T16:50:40.109033+00:00"
   },
   {
     "name": "Reuters Business",
     "url": "https://feeds.reuters.com/reuters/businessNews",
     "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-11-24T17:00:04.302819+00:00"
+    "timestamp": "2026-11-25T16:50:40.458828+00:00"
   },
   {
     "name": "Nature News",
     "url": "https://feeds.nature.com/nature/rss/current",
     "error": "prefix 'rss' not found in prefix map",
-    "timestamp": "2026-11-24T17:00:07.013248+00:00"
+    "timestamp": "2026-11-25T16:50:42.340249+00:00"
   }
 ]
