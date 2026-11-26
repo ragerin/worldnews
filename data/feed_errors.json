@@ -3,48 +3,66 @@
     "name": "Reuters World",
     "url": "https://feeds.reuters.com/reuters/worldNews",
     "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-11-25T16:50:28.580984+00:00"
+    "timestamp": "2026-11-26T16:27:03.536806+00:00"
   },
   {
     "name": "Deutsche Welle (DW)",
     "url": "https://rss.dw.com/rdf/rss-en-world",
     "error": "prefix 'rss' not found in prefix map",
-    "timestamp": "2026-11-25T16:50:29.101160+00:00"
+    "timestamp": "2026-11-26T16:27:03.672605+00:00"
   },
   {
-    "name": "South China Morning Post",
-    "url": "https://www.scmp.com/rss/91/feed",
+    "name": "France 24 English",
+    "url": "https://www.france24.com/en/rss",
     "error": "prefix 'content' not found in prefix map",
-    "timestamp": "2026-11-25T16:50:32.699393+00:00"
+    "timestamp": "2026-11-26T16:27:03.724194+00:00"
+  },
+  {
+    "name": "AllAfrica (continent-wide)",
+    "url": "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf",
+    "error": "Could not resolve a valid feed URL after fallbacks",
+    "timestamp": "2026-11-26T16:27:05.946819+00:00"
   },
   {
     "name": "Kyodo News English",
     "url": "https://english.kyodonews.net/rss/all.xml",
     "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-11-25T16:50:37.820944+00:00"
+    "timestamp": "2026-11-26T16:27:12.656002+00:00"
   },
   {
     "name": "The Hindu",
     "url": "https://www.thehindu.com/feeder/default.rss",
     "error": "prefix 'content' not found in prefix map",
-    "timestamp": "2026-11-25T16:50:37.923464+00:00"
+    "timestamp": "2026-11-26T16:27:12.732592+00:00"
+  },
+  {
+    "name": "Dawn (Pakistan)",
+    "url": "https://www.dawn.com/feeds/home",
+    "error": "Could not resolve a valid feed URL after fallbacks",
+    "timestamp": "2026-11-26T16:27:12.919823+00:00"
   },
   {
     "name": "The Verge",
     "url": "https://www.theverge.com/rss/index.xml",
     "error": "prefix 'a' not found in prefix map",
-    "timestamp": "2026-11-25T16:50:40.109033+00:00"
+    "timestamp": "2026-11-26T16:27:14.686707+00:00"
   },
   {
     "name": "Reuters Business",
     "url": "https://feeds.reuters.com/reuters/businessNews",
     "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-11-25T16:50:40.458828+00:00"
+    "timestamp": "2026-11-26T16:27:14.785565+00:00"
   },
   {
     "name": "Nature News",
     "url": "https://feeds.nature.com/nature/rss/current",
     "error": "prefix 'rss' not found in prefix map",
-    "timestamp": "2026-11-25T16:50:42.340249+00:00"
+    "timestamp": "2026-11-26T16:27:17.470667+00:00"
+  },
+  {
+    "name": "New Scientist",
+    "url": "https://www.newscientist.com/feed/home/",
+    "error": "prefix 'content' not found in prefix map",
+    "timestamp": "2026-11-26T16:27:18.697507+00:00"
   }
 ]
