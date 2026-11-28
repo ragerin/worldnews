@@ -3,48 +3,48 @@
     "name": "Reuters World",
     "url": "https://feeds.reuters.com/reuters/worldNews",
     "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-11-27T16:12:50.665271+00:00"
+    "timestamp": "2026-11-28T15:05:24.978655+00:00"
   },
   {
     "name": "Deutsche Welle (DW)",
     "url": "https://rss.dw.com/rdf/rss-en-world",
     "error": "prefix 'rss' not found in prefix map",
-    "timestamp": "2026-11-27T16:12:51.584262+00:00"
+    "timestamp": "2026-11-28T15:05:25.967405+00:00"
   },
   {
     "name": "Kyodo News English",
     "url": "https://english.kyodonews.net/rss/all.xml",
     "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-11-27T16:13:01.924961+00:00"
+    "timestamp": "2026-11-28T15:05:34.190648+00:00"
   },
   {
     "name": "The Hindu",
     "url": "https://www.thehindu.com/feeder/default.rss",
     "error": "prefix 'content' not found in prefix map",
-    "timestamp": "2026-11-27T16:13:01.995838+00:00"
+    "timestamp": "2026-11-28T15:05:34.549892+00:00"
   },
   {
     "name": "The Verge",
     "url": "https://www.theverge.com/rss/index.xml",
     "error": "prefix 'a' not found in prefix map",
-    "timestamp": "2026-11-27T16:13:03.820493+00:00"
+    "timestamp": "2026-11-28T15:05:36.950669+00:00"
   },
   {
     "name": "Reuters Business",
     "url": "https://feeds.reuters.com/reuters/businessNews",
     "error": "Could not resolve a valid feed URL after fallbacks",
-    "timestamp": "2026-11-27T16:13:04.016123+00:00"
+    "timestamp": "2026-11-28T15:05:37.916157+00:00"
+  },
+  {
+    "name": "MarketWatch",
+    "url": "http://feeds.marketwatch.com/marketwatch/topstories/",
+    "error": "Failed to fetch http://feeds.marketwatch.com/marketwatch/topstories/",
+    "timestamp": "2026-11-28T15:05:38.469476+00:00"
   },
   {
     "name": "Nature News",
     "url": "https://feeds.nature.com/nature/rss/current",
     "error": "prefix 'rss' not found in prefix map",
-    "timestamp": "2026-11-27T16:13:07.110415+00:00"
-  },
-  {
-    "name": "New Scientist",
-    "url": "https://www.newscientist.com/feed/home/",
-    "error": "prefix 'content' not found in prefix map",
-    "timestamp": "2026-11-27T16:13:09.385865+00:00"
+    "timestamp": "2026-11-28T15:05:40.469457+00:00"
   }
 ]
